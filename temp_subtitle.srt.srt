@@ -1,0 +1,103 @@
+1
+00:00:02,500 --> 00:01:02,200
+ini Baiklah kita mau Rai agenda hari ini jangan lupa siapkan kertas dan pensil atau pulpen karena kita perlu menulis-nulis dan nanti juga kalian perlu merespon pertanyaan saya bisa secara lisan maupun melalui chat ee kalian bisa bertanya dan EE pada waktu yang diberikan dan juga bisa instruksi kalau misalnya ada hal yang EE perlu ditanyakan di tengah-tengah ya Ee mungkin bisa resign kalau misalnya ada yang ingin ditanyakan dan kalau misalnya Saya tidak melihat kamu resign kamu bisa Open Mic kemudian menyampaikan pertanyaan Oke kita akan membahas tentang ruang hasil kali dalam Ya seperti yang saya sampaikan di
+
+2
+00:01:05,000 --> 00:01:27,700
+forum diskusi bahwa sebagian besar materi yang kamu akan pelajari hari ini adalah materi yang mungkin relatif baru bagi sebagian besar dari kalian Jadi kalian perlu fokus ya dan juga mencoba mengaitkan dengan pengetahuan yang sudah ada
+
+3
+00:01:30,000 --> 00:02:29,200
+Oke kita akan mulai dengan ruang hasil kali dalam kita definisikan Tapi sebelum masuk di situ kita mencoba mengaitkan dengan pengetahuan kita yang sebelumnya ya belajar sesuatu yang baru itu akan berhasil kalau kita bisa mengaitkan hal baru itu dengan pengetahuan yang sudah ada sebelumnya. Nah pengetahuan apa yang terkait dengan ruang hasil kali dalam yang terkait dengan ini secara langsung adalah ruang upload ya atau RN Nah kita akan bahas ruang new great Dan dari situ baru kemudian kita melakukan generalisasi. Nah. Apa yang akan kita bahas di dalam topik ini yang pertama kita akan memahami dulu eee ruang hasil kali dalam itu apa dan untuk membuat ee ruang hasil dari dalam atau mengkonstruksi ruang hasil kali dalam kita memerlukan pemahaman tentang
+
+4
+00:02:29,900 --> 00:02:34,500
+si hasil kali dalam ya kalian sudah tahu ada fungsi
+
+5
+00:02:36,300 --> 00:03:23,600
+yang kita bahas itu adalah fungsi hasil kali titik ya hasil kali titik itu sebenarnya juga fungsi kemudian juga panjang jarak sudut serta ortogonalitas antara dua vektor nah ini tidak hanya terbatas pada vektor di RN tapi juga vektor-vektor Di ruang vektor yang lain seperti himpunan ee matriks berordo MN gitu misalnya atau ruang ee PN gitu ya yang isinya adalah himpunan semua polinomial dengan degree paling banyak n dan polinomial nol gitu kemudian kita akan mencoba juga membahas tentang matriks koordinat kemudian matriks ortogonal itu apa kemudian
+
+6
+00:03:24,600 --> 00:03:33,700
+kita juga akan bahas aplikasi dari konsep ortogonalitas itu untuk menyelesaikan
+
+7
+00:03:36,600 --> 00:04:20,300
+masalah kuadrat terkecil yaitu yang berkaitan dengan SPL SPL yang selama ini kita tahu dia nggak ada solusinya gitu ya kalau kemarin-kemarin eee kita punya SPL SPL tidak ada solusi Ya sudah kita hanya memberi keterangan bahwa SPL ini tidak ada solusi tapi kemudian di square. Solution kita ingin mencari pendekatan terbaik ketika eee SPL tidak konsisten oke nah ada materi juga yaitu proses transmith dan dikomposisi QR Nah itu kemungkinan nanti kamu akan menemui di mata kuliah
+
+8
+00:04:20,899.9999999999709 --> 00:04:32,900
+Eh lain gitu ya, tapi kalau Kalian sudah memahami dengan baik, konsep ortogonalitas dan konsep basis dan juga ee konsep ee.
+
+9
+00:04:34,300 --> 00:05:34,000
+Dependensi linier maka proses transmith dan dikomposisi GR itu bukan hal yang sulit untuk dipelajari sendiri ya karena keterbatasan waktu di semester pendek ini ke untuk materi proses transmith dan dekomposisi QR itu tidak diberikan di kelas tapi kalian sudah cukup ee bekal untuk bisa belajar sendiri. Oke baik Nah kita eee telah mempelajari vektor dari awal kita mendefinisikan sebagai entitas matematika yang mempunyai panjang dan juga mempunyai arah Dan ini juga sejalan dengan apa yang kalian bahas di kuliah Fisika dan kuliah-kuliah lain kemudian sesudah kita mempelajari pengertian ruang vektor umum ternyata vektor itu tidak terbatas pada vektor yang kita kenal selama ini yang
+
+10
+00:05:34,200 --> 00:06:13,200
+Bisa disajikan sebagai segmen garis berarah baik itu di bidang maupun di ruang tapi juga bisa berupa entitas yang lain yang berupa eh entitas matematika yang lain seperti fungsi continue fungsi terdiferensiasi polinomial Barisan Tak Hingga eee matriks itu juga bisa menjadi vektor ya dengan vektor kita definisikan lebih umum sebagai himpunan tidak kosong yang di dalamnya itu kita definisikan jumlah dan perkalian dengan skalar.
+
+11
+00:06:14,100 --> 00:06:44,800
+Sedemikian hingga 10 aksioma ruang vektor dipenuhi dan siapapun yang ada di dalam ruang vektor dia berhak disebut vektor meskipun kita tidak tahu panjangnya berapa arahnya ke mana gitu? Nah hari ini kita akan menghitung panjang vektor meskipun vektor itu bukan vektor pada bidang maupun ruang nah ketika kita mengukur sesuatu tentu kita perlu alat ukurnya bukan
+
+12
+00:06:45,700 --> 00:06:49,100
+Nah kita akan membahas alat ukurnya ya
+
+13
+00:06:49,500 --> 00:06:55,000
+Oke sebelum itu kita bahas dulu tentang fungsi karena sebenarnya
+
+14
+00:06:56,500 --> 00:07:21,000
+hasil kali dalam itu merupakan fungsi jadi kita refresh kembali pemahaman kita tentang fungsi ya fungsi itu aturan pengawanan ya aturan pengawanan antara apa antara himpunan yang kita sebut sebagai himpunan Do Min ke kodomain?
+
+15
+00:07:22,500 --> 00:07:37,700
+Yang ke kodomain tidak semua pengawanan itu fungsi-fungsi yang tertentu yang setiap elemen di domain mempunyai tepat kawan di kodomain itulah yang disebut fungsi ya.
+
+16
+00:07:39,400 --> 00:07:42,900
+domain kodomain jadi di sini ada aturan
+
+17
+00:07:45,300 --> 00:08:01,200
+aturannya yang bagaimana apapun aturan di sini harus memenuhi kriteria bahwa untuk setiap X anggota domain harus mempunyai Tepat satu nulisnya begini Tepat satu y
+
+18
+00:08:02,100 --> 00:08:18,400
+anggota kodomain sedemikian hingga y = FX kalau fungsinya itu F nah ini adalah fungsi dengan argumen 1 argumen ya
+
+19
+00:08:19,200 --> 00:08:25,000
+inputnya di sini 1 ya, Misalnya fungsi Apa Eh lagi
+
+20
+00:08:25,900 --> 00:08:32,900
+misalnya fungsi g gitu misalnya G itu mungkin ya fungsi di sini adalah fungsi G
+
+21
+00:08:34,000 --> 00:08:53,500
+Itu fungsi kalau apa kalau untuk setiap X anggota domain terdapat dengan tunggal Y anggota kodomain sedemikian hingga y = GX gitu fungsi dengan 1 perubahan atau satu variabel.
+
+22
+00:08:55,200 --> 00:09:15,300
+tapi kita juga tahu bahwa ee di kalkulus ya fungsi itu tidak hanya melibatkan satu variabel saja gitu ya boleh jadi melibatkan dua gitu dua variabel misalnya X dan Y atau misalnya ini fungsinya kita sebut Z = FX y
+
+23
+00:09:16,100 --> 00:09:24,300
+kita ya ini banyak juga kita temui di dalam kehidupan sehari-hari itu misalnya
+
+24
+00:09:26,900 --> 00:09:39,100
+dokter ingin memberikan dosis gitu ketika mau memberikan dosis dokter itu tidak cukup hanya melihat dia umurnya berapa?
+
+25
+00:09:40,500 --> 00:09:50,400
+Tapi dia juga melihat berat badannya berapa ya Jadi dosis itu ditentukan oleh umurnya berapa dan berat badannya berapa gitu?
+
+26
+00:09:50,800 --> 00:09:59,300
+Kalau dokter hanya menentukan berdasarkan umur Nah nanti dosennya menjadi tidak tepat karena dosis obat itu.

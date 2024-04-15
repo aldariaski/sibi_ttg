@@ -1,0 +1,37 @@
+views.py
+
+def upload_pipeline():
+    return ""
+
+
+
+def transcribe_speech():
+    # Instantiates a client
+    client=speech.SpeechClient()
+    # The name of the audio file to transcribe
+    gcs_uri="gs://skripsi-speech-recognizer/audio-files/Audio_-10min-CS-Anum-Pak-Chan-T-Basaruddin-11-Okt-2021Screen-Recording-_11-10-2021-10-24-59_-_online.mp3"
+
+    audio=speech.RecognitionAudio(uri=gcs_uri)
+
+    config=speech.RecognitionConfig(
+        encoding=speech.RecognitionConfig.AudioEncoding.MP3,
+        sample_rate_hertz=48000,
+        language_code="id-ID",
+        model="latest_long",
+        audio_channel_count=2,
+        enable_automatic_punctuation=True,
+        enable_word_confidence=True,
+        enable_word_time_offsets=True,
+        alternative_language_codes=["en-US"],
+    )
+
+    # Detects speech in the audio file
+    operation=client.long_running_recognize(config=config, audio=audio)
+
+    print("Waiting for operation to complete...")
+    response=operation.result(timeout=90)
+
+    for result in response.results:
+        print("Transcript: {}".format(result.alternatives[0].transcript))
+
+    return result.alternatives[0].transcript

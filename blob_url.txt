@@ -1,0 +1,3 @@
+https://storage.googleapis.com/skripsi-speech-recognizer/audio-files/pok-short2.mp3
+gs://skripsi-speech-recognizer/audio-files/pok-short2.mp3
+v2gs://skripsi-speech-recognizer/audio-files/pok-short2.mp3

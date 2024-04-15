@@ -1,0 +1,1828 @@
+salam jumpa kali ini kita ketemu lagi dimata pelajaran pengantar organisasi 
+komputer na topik yang akan kita bahas pada kecempatan ini adalah tentang performan 
+satau kinerja yang mencaku materima tiri berikut ini 
+itu apa itu performan kenapa kita perlu 
+e baiklah kita morai akin da hari ini emjangan lupa siakan kertas dan pensil 
+atau polpen karena kita perlu menulis nulis dan nanti juga kalian perlu 
+merespon pertanyaan saya ka bisa ucara lisan malpon melalui cet kalian bisak 
+bertanya danpada waktu yang diberikan dan juga bisa intrubsi kalau misanya ada 
+hal yang e 
+perlu ditanyakan di tengah tengah ya mungkin bisa ris han kalau isannya ada 
+yang ingin ditanyakan dan kalau bisanya saya tidak melihat kamu rashan kamau 
+bisa obermaik kemudian menyampetkan pertanyaan ak tam kita 
+kan membahas tentang ruang hasil kali dalam ya seperti yang saya sampai kanti 
+meforum diskusi bahwa sebagian besar mathir yang kamu akan pelajari hari ini 
+adalah materi yang mungkin relatif baru bagi e sebagian besar dari kalian jadi 
+kalian perlu ke fokos ya ejaan juga mencoba mengangitkan dengan pengetauan yang 
+sudah ada 
+akeakita akan mulai dengan ruang hasil kali dalam kita divinisikan tapi sebelum 
+masuk disitu kita mencoba mengaitkan dengan pengetauan kita yang sebelumnya 
+yak belajar sesuatu yang baru itu akan berhasil kalau ki 
+ta bisa memengaitkan hal baru itu dengan pengetauan yang sudah ada sebelumnya 
+kna pengetawan apa yang terkai dengan ruang hasil kali dalam yang terkait dengan 
+ini secara langsung adalah ruang yuklit yang trn n kita akan bah 
+as teruang nyukrid dan dari situ baru kemudian kita melakukan keneralisasi na 
+apa yangkan kita bahati dalam topik ini yang pertama kita akan memahami dulu 
+peruang hasilkali dalam itu apa dan untuk membuat eruang hasil kalital 
+am atau mengkonstruksi ruang hasil kali dalam kita memperlukan pemahaman tentang 
+fungsi hasil kali dalam ya kamia kalian sudah tahu ada fungsi eyang kita berhasiadalah 
+fungsi hasil kali titi ya hasilkali tite itu sebenarnya superfung 
+si kemudian juga panjang jarak sudut serta ortokonalitas antara dua fektor na 
+ini tidak hanya terbatas pada vfektor di eren tapi juga fektor fektor di ruang 
+faktor yang lain seperti nyehimpunan 
+matrikberortomen g temesannya ataou ruang lpn gattu yang isinya adalah impunan 
+semua polih nomiral dengan tigri paling banya en dan polinomia nol kita kemadian 
+kita akan mencoba juga mebaha 
+tentang maktrik keordina kemadian matrik ortugunal itu apa kemudian kita juga 
+akan bahas eaplikasi dari konseporpukunalitas itu untuk menyelesaikan a 
+masalah kuatera terkecil ya itu yang perkaitan dengan espeel espeel yang selama 
+ini kita tahu dia nggak ada solusinya ita kalau kemarin kemarin amkita punya 
+espeael espeel tidak ada solusi ya sudah kita hanya mem 
+beri ketrangan bahwa espeel ini tidak dasolusi tapi kemudian dipliskwerku solusian 
+kita ingin mencari pendekatan terbaik ketika espeel tidak konsisten nada mathiri 
+juga yang itu prose 
+n proses gram smith dan di kompusisi kiaeir naiti kemungkinma nanti kamu akan 
+menemui di mata kuliah lagin rituia tapi kalau kalian sudah memahami dengan 
+baik konser ortu konalitas dan konserbra 
+sis dan suga kekonserindipendensi liniar maka proses gramsmi tentuk dikompusisi 
+keair itu bukan hal yang sulit untuk dipelajari sendiri ya karena keterbatasan 
+waktu di semester pende ini ke 
+untuk materi proses kram smet den rikompusisi kier itu tidak diberikan di kelas 
+tapi kalian sudah cukup bekal untuk bisa belajar sendiri pagai baik na kita 
+etelah mempelajari fektor dari awal 
+kita mentvisin nesikan sebagi entitas matematis yang mempunyai panjang dan juga 
+empunyai arah dan ini juga sejalan dengan apa yang kalian bahasti kuliah visika 
+dan kuliah kuliah lain kemudian sesudah kita mempelajari 
+pengertian ruang fektor umum ternyate fektor itu tidak terbatas pada fektor 
+yang kita kenal selama ini yang bisa disajikan sebagi saikmen daris berarah 
+baya itu dibidang maupun di ruaang tapi juga bi 
+sa berupa entitas yang lain yang berupa lantitas matematis yang lain seperti 
+fungsi kontinyu fungsi terdvrensia poli nomial barian tak hingga amatrik itu 
+juga bisa menjadi fektor 
+ya dengan fektor kita dvinisikan lepi umum sebagai himpunan tidak kosong yang 
+tida lamnya itu kita dvinasikan cumlaha dan perkalian dengan sekalar sedenikian 
+tingga sepuluh aksiomaronfektor dipen 
+ui dan siapa pun yang ada di dalam eruang fektor dia berhak disembut fektor 
+meskipun kita tidak tahu panjangnya berapa arahnya kemana itu n hari ini kita 
+akan menghitung panjang fektor meskipun fektor itu 
+u bukan fektor pada bida maupun ruang na ketika kita mengukur sesuatu tentu 
+kita perlu alat ukurnya bukan nakita akan membahasaalat ukurnya ya ke sebelum 
+itu kita bahas dulu tentang fungsi 
+karena sebenarnya ehasil kali dalam itu merupakan fungsi jadi kita rivres kembali 
+pemahaman kita tentang fungsi ya fungsi itu aturan pengawanan ya raturan pengawanan 
+antara 
+pa antara rimpunan yang kita depu seput sebagai rimpunan dumin ke kodomen akekudomin 
+ntidak semua pengawanan itu fungsi ya fungsi 
+yang tertentu yang setiap elemen ditumin mempunyai tepat krawanti kodomen itu 
+la yang disebut fungsia didomin kodomin jadi di sini ada aturan ada rul aturannya 
+yang bagaimana apuap 
+naturan di sini harus memenui keritiria bahwa untuk setiap ecxanggotadomen harus 
+mempunyai tepat satu menulisnya bergini tepat satu ye anggotaku domen sedemikian 
+tingga 
+ye sama dengan efeck kalau fungsinya itu ef tna ini adalah fungsi dengan arkumen 
+satu ne anak satu arkumen ya imputnya di sini satu eta yang bisalnya fungsi 
+apa 
+lagi bisaannya fungsi gig itu esaannya ge itu hungkin ya mungsi di sini ada 
+fungsiki itu ge itu fungsi kalau apa kalau untuk setiap eakseanggota domen terdapa 
+dengan tung 
+ggal e anggotaku domin sedemikian hingga ieng sama dengan kekkita fungsi dengan 
+satu beubahatu satu variabel tapi kita juga tau bahwa etikal kulus ya fungs 
+si itu tidak hanya melibatkan satu vara bel saja kit a bolai jadi melibatkan 
+dua itu dua vakria belmisanya ekstendi ataubisannya ini fungsinya kita sebut 
+zet sama dengan evksi kite ya 
+aini banyak suka kita temui di dalam kehidupan sehari hari itu misalnya am dokter 
+ingin memberikan dose kita ketika mau amemberikan drosis dokter i 
+itu tidak cukup hanya melihat tia umurnya berapa tapi dia juga melihat berat 
+badanya berapa yang jadi droses itu ditentukan oleh umornya berapa dan beratbadanya 
+berapa gita kalau dokter hanya menentukan berdasarkan umur 
+rnananti dusirsnya menjadi tidak tepat karena tursis obat itu a 
+a handll dengan baik untuk persamaan yang gujur sangkar kita tahu sepanjang 
+matri ovesiannya itu untuk persama diniar ya sepanjang matri govisinnya tununsinggular 
+maka di jamin ya jari pasti ada selusi dan sulusi itu juni tinggal 
+kemudian untuk yang lis kuat problem kita juga tahu bahwa dengan bersama normal 
+kita kemarin kita tunjukkan ada sulsi dan tuijuga yunit selusembahkan dalam 
+kasus yang riju satapen reng di disen 
+ekita bisa mendapatkan junik sudusen dengan monsetu jiro yang non a don indpenden 
+dato yang di pendon vanabol e kalau ada di penden vara pos nauntuk yang non 
+ig 
+nonliner ikueshen ternyata enggak bisa ada tiga mungkinan yang terjadi perkama 
+adalangga ada solusi yang sulusinya simplingga adahadak ya cantornya mesanya 
+untuk dexkwadra tambal satu sambal d 
+engan nol kalau bita bicaraantan bilangan real ya ngdak ada angdak mungkin ada 
+iks yang memngunuhi eraksadar beluk satu sama dengan nol mitunya ini yang pertama 
+yang kedua ada sulusi tapi 
+macemajam jadi ada yang juman satu sulusinya ditiap ada yang jua itusululusi 
+ada yang tiga dmpat dadi fainai nambur dobsilusun ada yang dua ribu lima ratu 
+saada in stijutam paratus itu jumlah sulusinya 
+baying ketiga ada kasus juga di mana indvenet saya namberobsudusin jadi untuk 
+yang ini misanya contonya saya punya tiga selusi menjadi semensatu kali eksples 
+dua kali ikminam belas 
+samu dengan nol dikan ada tiga sulusi igzakli ada tiga sulusi sedangkan yang 
+memiliki invenit nin disibusen itu yang paling kng palai ako sinasaik sama dengan 
+nol wigsaknya buas inusaik samend 
+engan nual itus luruh pelivatan piperdua itu adalah solusinya ritu dan kuta 
+hingga banyak ini e pesoalannya dan dalam hal untuk pepar itu lebih celinjing 
+lait 
+ikitia kitakan lakita bakan tidak memiliki hinaf apa evisiolizishen tentang 
+kaya apa sebetumi problumnya ke seintonerol tidak ada suatu carat perlu 
+dan atau sarat cukup yang menjamin eksistensi apa lagi yuniknes jadi unikuges 
+jemat bukan tidak menjadi persoalangitu di sini karena belum tuntu yunit dugapak 
+sulisnya kesabarannyak ke 
+dulu waktu kita bicara entang bersamaan linier saya katakan bahwa perlu sekali 
+kita punya yunik selusun karena kalau ada lima orang yang menemukan sidusi kita 
+harus bisa mengatakan mana yang salah kalau berbeda ditukan 
+anya dari sulusitersunik dariinke sata pendapat laat esulusi lain yang ditemukan 
+maka kita rus pertanyakan yang mana ini yang bendak netapi dalam konteks persama 
+norliniar tidak kalau bisanya untuk jahntu yang kedua 
+inikan ada tiga sulusik siaa menemukan sama dengan saku solusinya si bie menemukan 
+minus buah sisia menemukan sama dengan nambelas tiga tiganya benar ya tiga tiganya 
+benar d berbeda tapi b 
+enar tiga tiga sauitu komplikasi atau kompleksitas dari persoolan penuninnya 
+nan dulu waktu dikalkulus kita punya namanya intermedia telhuteorm yang mengatakan 
+bahwa kala suatu fungsi evetu kontinyum dan dilai fungsi di kedua ujungi 
+itu berbedat anda di jamin ada titik di mana dilainya itu kan sama dengan nonedi 
+ada jaminan extar di sini singga evextare itur sama dengan nol itu di jamin 
+dengan tiarema he intermidia dali ti 
+r tapikan ini epertama dia adalah sangat cukup yang tidak perlu ya danda bisa 
+memengatakan bahwa dalam kasus yang ini sanya ini harga fungsi di kedua uju 
+m tidak berbedata anda di kedua ujungi terbtapianda selusi juga pakirturgan 
+diri edia merapukan cara cukup yang kedua ini anya terjadi untuk sekalar problem 
+aplika belu m tuk sekalau probut untuk ia menohan sekalang 
+ya susah luar dui min baik bedat anda pun nggak jelaskan mongfektorku tidak 
+punya tandah dia punya arah dengan boke so ovorol ada 
+komplikasi atau persoalan yang lebih acelinjing dalam nonlindar ikueshen dibanding 
+yang linat dimana kita tidak lagi membicarakan tentang eksistensi dan yunidas 
+dari culuse tapi iti sepat 
+de problem nantinya dengan eharapan ada sulusi jebak kita cari nuntuk membuat 
+persoaln menjadi bakan lebih benangtang ada namanyagalwa e kenjekshyer gi 
+sia yang mengatakan bawa sebet tingga ada algoritma ataumitu dah di dunia ini 
+yang dapat menemukan sulusi egzak dari persoalan atau persamaan nonliniar secara 
+umum ngadiang u 
+mum yang ada adalah untuk yang kusus bisalnya untuk pernah manku adrak kita 
+punya rumuh sabeisi hoke masih punya kita atau untuk bolinomial kita punya ada 
+mitod itu dfaktorisasi setelah kita dapat faktorkanmaka ka kamu da 
+n itu egzak buk jadi analitikel sudusen itu dimungkinkan hanya untuk yang spesiol 
+keis dan itupun diasnya untuk simpal simpalges injoneral nou sac mettar col 
+ini adalah elper 
+alan yang kidak adapi dengan persamaan auyan bahwa tidak mudah untuk ma nyatakan 
+bahwak sulus ini pasnya ada ya kemudian yan kedua tidak relepan lagi bicara 
+tentang 
+uniknas dari sekelusen karena memang sulusinya tidak harus yunni am kemarin 
+sudah di bahasoleh raja metod yuristik yang paling sederhanak 
+m dan kita sangat veaimilyar gita yang disebu dengan mintu debaik seksion nantu 
+sering kalid sebersebagai baanderi sec meter am mungkin anda ingat ada kwis 
+menebak angka intu 
+jur gidadi kalau mesaya saya fekasih tahu sawa saya punya intujur diantara nol 
+sampai seratus tolong ditebak siapa yang bisa menebak paling cepat dia dapat 
+hadiah mesikg anda tuntu saja tidak akan menebak dengan mengurutkan mulai dari 
+no 
+ol satu bua dan strusnya ditapi anda cari tidik tengah kemudian anda skwis interval 
+vencariannya jadi ido yang kita sangat pembilyar bahwa kalau ada aba 
+amanya purso alam tapi saratnya bahwa dikedua ujung dia berbedata anda jani 
+meka dengan intermidiat laliter lentadi pasti anda bisa menemukan diti extar 
+ini cara yang gi mana ya diskui saja dengan 
+memendek kan intervaul menjadi stengahnya angitnya dadi kalau iniki saya bagi 
+dua tinggal saya kasik cekaja dia di sebela kiri atau sebelah kanan ditiktengah 
+kalau disebelah kiri makai saya buang yang sebelakanan dan sebalaliknya ni algorimanya 
+sudah sana bik karu sangat muda sa raja sudah memberikan juga kemarin mentu 
+daini sangat sloue atau cukup lambat dimana jumlah internasi yang dibutuhkan 
+apa bila untuk mencapai tole sebagai user akseptetuldor tol 
+en sya you serakset dan setoleran sia maka membutuhkan berapa kemarin dua lok 
+berapa kalimoter supaya selesai ulai lup itu 
+teman menikan hiri anda perlu sekian kali ininya da ini florarka silingnya hin 
+inya 
+siling myyakainya menjeri anda perlu setian kali komuter dari llu ini subaya 
+bisa tercapai sarat yang biwail stoping keradara walu 
+meokeikma ada kaanya banyak ya da itukanan kemarin mat unita man cari sok jauban 
+deri sedah wo alsoal yang diberikan aini selesaiu soal neh itu alam ada posnya 
+agikejadi pas kemarin dicoba di hitungn pake tadua lok itu ya dia dapat hasilnya 
+dari interfal yang kita pilih itu ta lebih kecil daipada spektnya yang dari 
+lok inmu sleb 
+h cepat dia lebih cepat itu ya njadi bisa terjadi karena misalnya kebutulan 
+dia dititik tengah tengantara adan beyanjari waktu anda bagi dua yauda kartemukan 
+aninya 
+misal seperti itu nya keudian yang dua cara anda menyepapnya pagai apa kaunternya 
+yang di yang diecek apa untuk berhenti kel sanga kemarin itu pati algur 
+mayang itirikananaturaja aya pan setoping gratirannyakan kalau sayakan pai lebar 
+intervalnya saya sekuis yang terbak kalau oleh bar interval udasangat kecil 
+maka saya berhenti kalau anda nilaikungsinya yang dicek 
+masaya tehata nya adi teman saya jadi saya da lukra englupaya jadi tergan tom 
+setoping geradiria kita ya jadi ini lepas jari saya punya ini 
+karena saya akan berhenti hanya bila biminesanya yang udah lebih kecil dari 
+toleran vimaka pasti sendini perluenyar itu ya dadi saya saya tidak ceck nilai 
+fungsi yang yang saya cek interpannya tudak skecil 
+apa jari pasti dibutuhkan segini ya tapi kalau yang dicada bakukan bemin dmindasat 
+lebih besar dari tolerans titapi ek em besanya yang lebih kecil dari toler 
+kabedak ayaa ini ada baraut kemaran kita pakainya aabsolut dari fungsiam gitu 
+yamakannya jadi kalau abselut bealu dari fungsinya berbedakan ada bisa melupai 
+itu bisa lebih cepat gitu 
+bisa karena nilefungsinyakan mebicaa mudah sangat kecil pada saat ayeng torfalnya 
+masih sangat lebar ya jadi interkal beminasaya masih lebar tapi nilefungsinya 
+uda sa 
+at kecil maberlati itu dia memada hubunga dengan kosnya giril saya ikinra keterjadia 
+itu gi kolao yang sebelum cubun yang menadap gurungu dan kosnya itu normal gitu 
+tutiap sama kayang bdai siling lok ini takupas kit 
+am ite myangkos tujjos last itu maksunnya pesain atak basi ya kosan o ibuk nggak 
+singga da hubumannya dengan fungsi apa yang penting apa yang anda ceck itu akan 
+emenentukkan edip tidak harus konsinar satosinas 
+tirigonamedri fungsi apapun akapa bilah anda yang anda kontrol itu adalah absulut 
+dalu dari nilai fungsi dititem maka ada kemungkinan dia lebih cepat daripada 
+dua loak itbaiknemakasita ya 
+baoke tesekarang kita angkan menjelaskan yaudi umumnya atau secara junero bagaimanasi 
+kita menyelesaikan persoolan atau persamaan wanlinia tadi galoa mengatakan tidak 
+ada halau meritma dadi ki 
+tak akan ma anggunakan aflaksimasinya dadi ada karena tidak ada tadada 
+top mencari sulusi eksak atau secara analitis 
+maka digunakan solusi pendekata nya jadi saya tidak akan menemukan solusi egsaknya 
+a tapi saya mencari sunshi pendekatannya itu le dididi dipindah itu persoalannya 
+nya jadi bisal dextral adalan sellut seeksak 
+hari efick kamu nenlandon aya sementara kita bicara yang sekalar problum dulu 
+yang kita tinggalkan dulu yang tekor toyang sistem mudian 
+dibangkirkan ja dekati ikta dengan mengembaangkirkan 
+sejarah iteraktif enkebarisan 
+selamat datang dalam seshi na integralitpat yang ada asiasi awal ini kita mulai 
+dengan mintageramaadapal atau dua integral tita keno 
+pelajari e hubungan antara dapil intagal a mengan di atas pidam segi empat jadi 
+selah satu pindangatau area integral yang paling su derhana adalah bidangsegi 
+empat ertinya a 
+fungsi dua di naste tersebut tribidiberikan atau dididinjikan pada bidang segi 
+empat a misakan kita punya fungsi yang menggunakan dua perebel kemunya didivinsikan 
+di dalam segi empat ayannya 
+idop mungsi itu diapa didikin dikan di siging paeire tot naskarang kita hitu 
+mencoba memisaakan kita itungejumlah ya perkalian fungsi dengan edelta aakah 
+dimana aka itu di mengupakan saat uapasatu 
+luas kecil diri kelau kitagambarkan bilangsgi empatmi seana seperti ini iti 
+itu ya kemudi yang kita bagi bagi tam menjadi beberapa bagi yang kecil kita 
+mikin mberberapa gerif dibekan kebunan katakan la dibialge bagian ini kita tulus 
+kan sebagal delta akabelati delta dari luas yang sebagian tersebutnya jadi kela 
+kita kalikan dengan fungsinya fungsnya di sini ungsni alah tingginya di sindoknesia 
+adalah ef katakan s inat laeh aex baroko 
+ma dhibar seperti itu debhatikan beleakitap pratikan dia merupakan pakalimdengan 
+luas sebagian ketilsi di sini kan dengan bagian tiginya jadi akan menudu satu 
+balok jadi membetu satu satu polubar tala kemudian harga perkal 
+ian musim tersebut dikalikan dengan aluasa itu untuk seluruh daerah yang seludah 
+arak jakan mementuk asatu apa satu nilaig dirikinika sebagai limit dan berkalimit 
+di kloket da bisanya dirtaanyatu menatapi nol yan ketia sekali jakan enekati 
+saku limit seperti ini untuk seluruf 
+anilainya ikda sumsikan misakan ilai lima tersebut ada maka integrasi di atas 
+aire menaini adalah erannya yang inyadi haerannya ketaliat eirnya itu diberikan 
+seperti itu integrasi di atas aiat a 
+ini diangkap sebagai sabtu integral di atas erev dadi kitak bisa membacanya 
+adambel integral evekdea dibaca sebagai ada pan integal dari ev di artas daerah 
+ere di atas daeranya perdeit minisi dengan aang sam 
+dengan dengan jumlah nlimit dari perkalian setiap penilaefunsi tersebut tenang 
+delta luas yang bernyang dekat dengan atitik tersebut dikan andia akan memetuk 
+satu apa satu peluma yang daasaarnya itu adalah gidamer yang didangaerah satu 
+daerah erah 
+kemudian emenjadi kelau kita lihat di satu apa satu elganbaran lainnya seandainya 
+nyiraya fungsi tersebut dia adalah nonegaktif jakan jadi ke loket ka perhatikan 
+daper intagal eteksi dengan dea 
+dia akan menyajikan pulume ruang yang berada di wawaf kungsi set sama dengan 
+vekshi iriklo ketekratikan jairnyatu adalah akurva atau satu atas satu formukaan 
+yang ada di atasnya kan kemulir karena airnyan rada sibinpat di bawahnya 
+maka itu menyatakan satu pelumuruang yang diatasnya itu dibatasi oleh kurup 
+azestema dengan eeksik kamudian dasarnya adalah bentuk sedimpat detan dadi integral 
+tesebut menyatakan plumaya ke lumbanya apari kelenisanya tadi kita lia dari 
+dirtinisi awa 
+nya yang merupakan lingit ya awanya akan kita berikannya sebagai satu satu balok 
+kaikan katu pulan mubalok yang keti kecil apa luma balok lalu ke tiju mlakan 
+untuk semua balok akan menetuk seatu pulubanya dimana diatasnya itu menyatakan 
+pada permukaan yang didipiniskan olehe 
+texsii naskaran kita liat beberapa sipak dari dobel integral si pada berintagra 
+pertana ke loket aliat keberintaga merupakan opratelinier diri artinya maksunya 
+kalau mnisunya fungsi tersebut dik 
+alikan dengan satu konstanva kemujian kitak mencari peni lain daper integeram 
+yang itu sampai juga dengan kita hitungdah berintegalanya duru terhedap fungsi 
+tersebut perdikalikan dengan ponsangsahasenya akan akan sanat pemudian juga 
+konbisalakan kita punya dua p 
+ngsi yang menggambarkan permukaan penyubelan dua permugaan maitu daber integrannya 
+bisa kita lakukan satu bersabup persetiap kungsia diketa gelat isinya ada contornya 
+ada ada bangi tegeral etexi belas diexsi dia itu sama juga dengan degar integral 
+tevki dea tus ditamah dangan ada ber integragieksi dengan dea bunnya juga saandainya 
+daeraannya dembisa dibagi menjadi beberapa segim pajakan naitu juga penghitungan 
+juga bisa dilakuan peraftor per 
+daerah tersebut dari katakanan mesanya darahernnya dijadindisikan seperti ini 
+dan sebertiinikan lalau kita bagidup kita bagi dua misa lansina daerah saat 
+tu ye gijin ada er dua di tepa ais eluruh nyanya keta edaipunjikan sebagai aiarah 
+dia beganya kejangan nepu 
+ngsinya eapnya disinikan layapnya ketelefungsi subagain hap ex keminya ada di 
+atas nyasini nini sebagai katakan sebagai pelmopa annya di sini bagalpomukaannya 
+naini ibetrannya bisa dilakukan per dairahear satu ya ds ini ketelean 
+kanaeh satu dan junga terada peiarbuan balu kemudian ahberikutnya tanak sayan 
+nayang kita punya dua fungsi katakanevd nvexc lebih kecil sama dengan dengan 
+bieksi untuk semua nilai eksnnya 
+pdatikan kelakita perhatikan klau digambar tiga di mancy ekusigenitu berada 
+erapat dengan ekseinnya ya atau dia berada di atasnya akan gat sepelemukan diri 
+otematis luas apa istiko lubanya itu juga dia akan akana apaakahn lebih besar 
+yang endiniu air 
+ya memenuahi persamaan seperti ini muguni pelsamaan seperti benaskaran ketalia 
+a bebagaimana kita menghitung dadapal integral ya enyang awal yang itukan da 
+kelua kita perhatikan 
+adaerah di mana intega tersebut dideivisihkan dalam entu segimpatar berati a 
+sumbua iknya itu dibata selepon santaan dengan apa dengan biikan kirinya dengan 
+atusknannya dengan bi kemudian yang cinya juga ba 
+gian yang paling kecilnya di eebatasi olehcil pada kebada yang diatasnya didua 
+atas apa dibatasi oleh henti kan enikalau kata perhatikan gambannya kurang lebih 
+seperti ini dari ketaperhatikan dangan ini di sinnya alah sungbuk ekjer 
+anya ada di sini kemudiannya bidi sini cang sedang mansungbuini adal bagai nasinikan 
+cinya di bagian sini dan adinya bagas indiri keluka terpratikan air neko di 
+dibaerah daerah yang saya berikan wawraasi panas seperti ini sedangkan fungsi 
+set ef 
+eksi yang merupakan permukaan yakan permukaan yang seperti itu dedibati integralnyaya 
+tetetaperhatikan bisa diayah diaidokan beratikan kulau kita ini memenjari menjaiki 
+ambil su sebua tongan seperti sepi itu ikat da ini adalah deotah aanya kan diatakan 
+yakan kenkedataan 
+nmati integeraannya bisa kita leukan terhadap ek dulur dengan batasnya dari 
+asama dengan biv menga temur yan kita lanjukan dengan integral beributnya terhadap 
+dier daribatasi laricisama di dengan di akau awau kita lakukan terdacsi aka 
+teradap ia duru tidak apaapat 
+ne smuda ibaau dilajukan dengan yang yang ekja dari aras camati padakujunmnya 
+dudanya masih n konstanyan gendunga guro dan masih konestan ma sekarang bagaimana 
+kalau nyak peluma bidamu bidang sebarang dikan balumnya bolon pilin bidang sembaran 
+terkratikan nnyilanggi dangai birang sebarang derikot ani itu merupakan apaa 
+gambaran yang lebih sedar khanaya kamana sedirana sekarang kata liat a secara 
+sembarang puluh mebidang sebarang diri ya masudnya labi danknya itu da 
+bisa apa saja agin tertan dari puluma dari sebuah gidam dapat juga diitung sebagai 
+juglahan dari potongan potongan bidang tersebut ke ukuran yang lebih kecil dan 
+parail dengan bindangekshi di contornya itu klau kedela digangane di bidami 
+bidang exset diki 
+na dibukan yang lebilnya di bidang sinya tusudah seperti ini diri cara umum 
+perlume seperti ani kita potong ya katupotong ain kelutur gadat bagian tekil 
+di sini jikan mnkitap keluarkan dia akan menturu sepertiini demisinan diri kita 
+gat sebagai satu apa satu area t 
+u satu luasya aleas mluar dikalikan dengar dearthagi disidikedatai didisini 
+nanikah aia arahnya kemari selumbu ia beratis ini diatanya diatayi kan rati 
+diertayi di kalikan luas keseluruhan aihnya itu menyatakkan diatafrumah yaan 
+diam menyakan data fodu 
+uma jadah nyak kita jublahkan semua kulung menyitui akan mehasikan supurumah 
+bidang sebarang yang dibawah akuruva yang apa yang embatasi di bagaian atasnya 
+banik loketannya perpotonganayan eorang bidang gin perja koran stanja di depo 
+otong ggak kearasi inikan saang saarah menama ba 
+selamat datang dalam seshi na integralitpat yang ada asiasi awal ini kita mulai 
+dengan mintageramaadapal atau dua integral tita keno 
+pelajari e hubungan antara dapil intagal a mengan di atas pidam segi empat jadi 
+selah satu pindangatau area integral yang paling su derhana adalah bidangsegi 
+empat ertinya a 
+fungsi dua di naste tersebut tribidiberikan atau dididinjikan pada bidang segi 
+empat a misakan kita punya fungsi yang menggunakan dua perebel kemunya didivinsikan 
+di dalam segi empat ayannya 
+idop mungsi itu diapa didikin dikan di siging paeire tot naskarang kita hitu 
+mencoba memisaakan kita itungejumlah ya perkalian fungsi dengan edelta aakah 
+dimana aka itu di mengupakan saat uapasatu 
+luas kecil diri kelau kitagambarkan bilangsgi empatmi seana seperti ini iti 
+itu ya kemudi yang kita bagi bagi tam menjadi beberapa bagi yang kecil kita 
+mikin mberberapa gerif dibekan kebunan katakan la dibialge bagian ini kita tulus 
+kan sebagal delta akabelati delta dari luas yang sebagian tersebutnya jadi kela 
+kita kalikan dengan fungsinya fungsnya di sini ungsni alah tingginya di sindoknesia 
+adalah ef katakan s inat laeh aex baroko 
+ma dhibar seperti itu debhatikan beleakitap pratikan dia merupakan pakalimdengan 
+luas sebagian ketilsi di sini kan dengan bagian tiginya jadi akan menudu satu 
+balok jadi membetu satu satu polubar tala kemudian harga perkal 
+ian musim tersebut dikalikan dengan aluasa itu untuk seluruh daerah yang seludah 
+arak jakan mementuk asatu apa satu nilaig dirikinika sebagai limit dan berkalimit 
+di kloket da bisanya dirtaanyatu menatapi nol yan ketia sekali jakan enekati 
+saku limit seperti ini untuk seluruf 
+anilainya ikda sumsikan misakan ilai lima tersebut ada maka integrasi di atas 
+aire menaini adalah erannya yang inyadi haerannya ketaliat eirnya itu diberikan 
+seperti itu integrasi di atas aiat a 
+ini diangkap sebagai sabtu integral di atas erev dadi kitak bisa membacanya 
+adambel integral evekdea dibaca sebagai ada pan integal dari ev di artas daerah 
+ere di atas daeranya perdeit minisi dengan aang sam 
+dengan dengan jumlah nlimit dari perkalian setiap penilaefunsi tersebut tenang 
+delta luas yang bernyang dekat dengan atitik tersebut dikan andia akan memetuk 
+satu apa satu peluma yang daasaarnya itu adalah gidamer yang didangaerah satu 
+daerah erah 
+kemudian emenjadi kelau kita lihat di satu apa satu elganbaran lainnya seandainya 
+nyiraya fungsi tersebut dia adalah nonegaktif jakan jadi ke loket ka perhatikan 
+daper intagal eteksi dengan dea 
+dia akan menyajikan pulume ruang yang berada di wawaf kungsi set sama dengan 
+vekshi iriklo ketekratikan jairnyatu adalah akurva atau satu atas satu formukaan 
+yang ada di atasnya kan kemulir karena airnyan rada sibinpat di bawahnya 
+maka itu menyatakan satu pelumuruang yang diatasnya itu dibatasi oleh kurup 
+azestema dengan eeksik kamudian dasarnya adalah bentuk sedimpat detan dadi integral 
+tesebut menyatakan plumaya ke lumbanya apari kelenisanya tadi kita lia dari 
+dirtinisi awa 
+nya yang merupakan lingit ya awanya akan kita berikannya sebagai satu satu balok 
+kaikan katu pulan mubalok yang keti kecil apa luma balok lalu ke tiju mlakan 
+untuk semua balok akan menetuk seatu pulubanya dimana diatasnya itu menyatakan 
+pada permukaan yang didipiniskan olehe 
+texsii naskaran kita liat beberapa sipak dari dobel integral si pada berintagra 
+pertana ke loket aliat keberintaga merupakan opratelinier diri artinya maksunya 
+kalau mnisunya fungsi tersebut dik 
+alikan dengan satu konstanva kemujian kitak mencari peni lain daper integeram 
+yang itu sampai juga dengan kita hitungdah berintegalanya duru terhedap fungsi 
+tersebut perdikalikan dengan ponsangsahasenya akan akan sanat pemudian juga 
+konbisalakan kita punya dua p 
+ngsi yang menggambarkan permukaan penyubelan dua permugaan maitu daber integrannya 
+bisa kita lakukan satu bersabup persetiap kungsia diketa gelat isinya ada contornya 
+ada ada bangi tegeral etexi belas diexsi dia itu sama juga dengan degar integral 
+tevki dea tus ditamah dangan ada ber integragieksi dengan dea bunnya juga saandainya 
+daeraannya dembisa dibagi menjadi beberapa segim pajakan naitu juga penghitungan 
+juga bisa dilakuan peraftor per 
+daerah tersebut dari katakanan mesanya darahernnya dijadindisikan seperti ini 
+dan sebertiinikan lalau kita bagidup kita bagi dua misa lansina daerah saat 
+tu ye gijin ada er dua di tepa ais eluruh nyanya keta edaipunjikan sebagai aiarah 
+dia beganya kejangan nepu 
+ngsinya eapnya disinikan layapnya ketelefungsi subagain hap ex keminya ada di 
+atas nyasini nini sebagai katakan sebagai pelmopa annya di sini bagalpomukaannya 
+naini ibetrannya bisa dilakukan per dairahear satu ya ds ini ketelean 
+kanaeh satu dan junga terada peiarbuan balu kemudian ahberikutnya tanak sayan 
+nayang kita punya dua fungsi katakanevd nvexc lebih kecil sama dengan dengan 
+bieksi untuk semua nilai eksnnya 
+pdatikan kelakita perhatikan klau digambar tiga di mancy ekusigenitu berada 
+erapat dengan ekseinnya ya atau dia berada di atasnya akan gat sepelemukan diri 
+otematis luas apa istiko lubanya itu juga dia akan akana apaakahn lebih besar 
+yang endiniu air 
+ya memenuahi persamaan seperti ini muguni pelsamaan seperti benaskaran ketalia 
+a bebagaimana kita menghitung dadapal integral ya enyang awal yang itukan da 
+kelua kita perhatikan 
+adaerah di mana intega tersebut dideivisihkan dalam entu segimpatar berati a 
+sumbua iknya itu dibata selepon santaan dengan apa dengan biikan kirinya dengan 
+atusknannya dengan bi kemudian yang cinya juga ba 
+gian yang paling kecilnya di eebatasi olehcil pada kebada yang diatasnya didua 
+atas apa dibatasi oleh henti kan enikalau kata perhatikan gambannya kurang lebih 
+seperti ini dari ketaperhatikan dangan ini di sinnya alah sungbuk ekjer 
+anya ada di sini kemudiannya bidi sini cang sedang mansungbuini adal bagai nasinikan 
+cinya di bagian sini dan adinya bagas indiri keluka terpratikan air neko di 
+dibaerah daerah yang saya berikan wawraasi panas seperti ini sedangkan fungsi 
+set ef 
+eksi yang merupakan permukaan yakan permukaan yang seperti itu dedibati integralnyaya 
+tetetaperhatikan bisa diayah diaidokan beratikan kulau kita ini memenjari menjaiki 
+ambil su sebua tongan seperti sepi itu ikat da ini adalah deotah aanya kan diatakan 
+yakan kenkedataan 
+nmati integeraannya bisa kita leukan terhadap ek dulur dengan batasnya dari 
+asama dengan biv menga temur yan kita lanjukan dengan integral beributnya terhadap 
+dier daribatasi laricisama di dengan di akau awau kita lakukan terdacsi aka 
+teradap ia duru tidak apaapat 
+ne smuda ibaau dilajukan dengan yang yang ekja dari aras camati padakujunmnya 
+dudanya masih n konstanyan gendunga guro dan masih konestan ma sekarang bagaimana 
+kalau nyak peluma bidamu bidang sebarang dikan balumnya bolon pilin bidang sembaran 
+terkratikan nnyilanggi dangai birang sebarang derikot ani itu merupakan apaa 
+gambaran yang lebih sedar khanaya kamana sedirana sekarang kata liat a secara 
+sembarang puluh mebidang sebarang diri ya masudnya labi danknya itu da 
+bisa apa saja agin tertan dari puluma dari sebuah gidam dapat juga diitung sebagai 
+juglahan dari potongan potongan bidang tersebut ke ukuran yang lebih kecil dan 
+parail dengan bindangekshi di contornya itu klau kedela digangane di bidami 
+bidang exset diki 
+na dibukan yang lebilnya di bidang sinya tusudah seperti ini diri cara umum 
+perlume seperti ani kita potong ya katupotong ain kelutur gadat bagian tekil 
+di sini jikan mnkitap keluarkan dia akan menturu sepertiini demisinan diri kita 
+gat sebagai satu apa satu area t 
+u satu luasya aleas mluar dikalikan dengar dearthagi disidikedatai didisini 
+nanikah aia arahnya kemari selumbu ia beratis ini diatanya diatayi kan rati 
+diertayi di kalikan luas keseluruhan aihnya itu menyatakkan diatafrumah yaan 
+diam menyakan data fodu 
+uma jadah nyak kita jublahkan semua kulung menyitui akan mehasikan supurumah 
+bidang sebarang yang dibawah akuruva yang apa yang embatasi di bagaian atasnya 
+banik loketannya perpotonganayan eorang bidang gin perja koran stanja di depo 
+otong ggak kearasi inikan saang saarah menama ba 
+selamat datang dalam seshi na integralitpat yang ada asiasi awal ini kita mulai 
+dengan mintageramaadapal atau dua integral tita keno 
+pelajari e hubungan antara dapil intagal a mengan di atas pidam segi empat jadi 
+selah satu pindangatau area integral yang paling su derhana adalah bidangsegi 
+empat ertinya a 
+fungsi dua di naste tersebut tribidiberikan atau dididinjikan pada bidang segi 
+empat a misakan kita punya fungsi yang menggunakan dua perebel kemunya didivinsikan 
+di dalam segi empat ayannya 
+idop mungsi itu diapa didikin dikan di siging paeire tot naskarang kita hitu 
+mencoba memisaakan kita itungejumlah ya perkalian fungsi dengan edelta aakah 
+dimana aka itu di mengupakan saat uapasatu 
+luas kecil diri kelau kitagambarkan bilangsgi empatmi seana seperti ini iti 
+itu ya kemudi yang kita bagi bagi tam menjadi beberapa bagi yang kecil kita 
+mikin mberberapa gerif dibekan kebunan katakan la dibialge bagian ini kita tulus 
+kan sebagal delta akabelati delta dari luas yang sebagian tersebutnya jadi kela 
+kita kalikan dengan fungsinya fungsnya di sini ungsni alah tingginya di sindoknesia 
+adalah ef katakan s inat laeh aex baroko 
+ma dhibar seperti itu debhatikan beleakitap pratikan dia merupakan pakalimdengan 
+luas sebagian ketilsi di sini kan dengan bagian tiginya jadi akan menudu satu 
+balok jadi membetu satu satu polubar tala kemudian harga perkal 
+ian musim tersebut dikalikan dengan aluasa itu untuk seluruh daerah yang seludah 
+arak jakan mementuk asatu apa satu nilaig dirikinika sebagai limit dan berkalimit 
+di kloket da bisanya dirtaanyatu menatapi nol yan ketia sekali jakan enekati 
+saku limit seperti ini untuk seluruf 
+anilainya ikda sumsikan misakan ilai lima tersebut ada maka integrasi di atas 
+aire menaini adalah erannya yang inyadi haerannya ketaliat eirnya itu diberikan 
+seperti itu integrasi di atas aiat a 
+ini diangkap sebagai sabtu integral di atas erev dadi kitak bisa membacanya 
+adambel integral evekdea dibaca sebagai ada pan integal dari ev di artas daerah 
+ere di atas daeranya perdeit minisi dengan aang sam 
+dengan dengan jumlah nlimit dari perkalian setiap penilaefunsi tersebut tenang 
+delta luas yang bernyang dekat dengan atitik tersebut dikan andia akan memetuk 
+satu apa satu peluma yang daasaarnya itu adalah gidamer yang didangaerah satu 
+daerah erah 
+kemudian emenjadi kelau kita lihat di satu apa satu elganbaran lainnya seandainya 
+nyiraya fungsi tersebut dia adalah nonegaktif jakan jadi ke loket ka perhatikan 
+daper intagal eteksi dengan dea 
+dia akan menyajikan pulume ruang yang berada di wawaf kungsi set sama dengan 
+vekshi iriklo ketekratikan jairnyatu adalah akurva atau satu atas satu formukaan 
+yang ada di atasnya kan kemulir karena airnyan rada sibinpat di bawahnya 
+maka itu menyatakan satu pelumuruang yang diatasnya itu dibatasi oleh kurup 
+azestema dengan eeksik kamudian dasarnya adalah bentuk sedimpat detan dadi integral 
+tesebut menyatakan plumaya ke lumbanya apari kelenisanya tadi kita lia dari 
+dirtinisi awa 
+nya yang merupakan lingit ya awanya akan kita berikannya sebagai satu satu balok 
+kaikan katu pulan mubalok yang keti kecil apa luma balok lalu ke tiju mlakan 
+untuk semua balok akan menetuk seatu pulubanya dimana diatasnya itu menyatakan 
+pada permukaan yang didipiniskan olehe 
+texsii naskaran kita liat beberapa sipak dari dobel integral si pada berintagra 
+pertana ke loket aliat keberintaga merupakan opratelinier diri artinya maksunya 
+kalau mnisunya fungsi tersebut dik 
+alikan dengan satu konstanva kemujian kitak mencari peni lain daper integeram 
+yang itu sampai juga dengan kita hitungdah berintegalanya duru terhedap fungsi 
+tersebut perdikalikan dengan ponsangsahasenya akan akan sanat pemudian juga 
+konbisalakan kita punya dua p 
+ngsi yang menggambarkan permukaan penyubelan dua permugaan maitu daber integrannya 
+bisa kita lakukan satu bersabup persetiap kungsia diketa gelat isinya ada contornya 
+ada ada bangi tegeral etexi belas diexsi dia itu sama juga dengan degar integral 
+tevki dea tus ditamah dangan ada ber integragieksi dengan dea bunnya juga saandainya 
+daeraannya dembisa dibagi menjadi beberapa segim pajakan naitu juga penghitungan 
+juga bisa dilakuan peraftor per 
+daerah tersebut dari katakanan mesanya darahernnya dijadindisikan seperti ini 
+dan sebertiinikan lalau kita bagidup kita bagi dua misa lansina daerah saat 
+tu ye gijin ada er dua di tepa ais eluruh nyanya keta edaipunjikan sebagai aiarah 
+dia beganya kejangan nepu 
+ngsinya eapnya disinikan layapnya ketelefungsi subagain hap ex keminya ada di 
+atas nyasini nini sebagai katakan sebagai pelmopa annya di sini bagalpomukaannya 
+naini ibetrannya bisa dilakukan per dairahear satu ya ds ini ketelean 
+kanaeh satu dan junga terada peiarbuan balu kemudian ahberikutnya tanak sayan 
+nayang kita punya dua fungsi katakanevd nvexc lebih kecil sama dengan dengan 
+bieksi untuk semua nilai eksnnya 
+pdatikan kelakita perhatikan klau digambar tiga di mancy ekusigenitu berada 
+erapat dengan ekseinnya ya atau dia berada di atasnya akan gat sepelemukan diri 
+otematis luas apa istiko lubanya itu juga dia akan akana apaakahn lebih besar 
+yang endiniu air 
+ya memenuahi persamaan seperti ini muguni pelsamaan seperti benaskaran ketalia 
+a bebagaimana kita menghitung dadapal integral ya enyang awal yang itukan da 
+kelua kita perhatikan 
+adaerah di mana intega tersebut dideivisihkan dalam entu segimpatar berati a 
+sumbua iknya itu dibata selepon santaan dengan apa dengan biikan kirinya dengan 
+atusknannya dengan bi kemudian yang cinya juga ba 
+gian yang paling kecilnya di eebatasi olehcil pada kebada yang diatasnya didua 
+atas apa dibatasi oleh henti kan enikalau kata perhatikan gambannya kurang lebih 
+seperti ini dari ketaperhatikan dangan ini di sinnya alah sungbuk ekjer 
+anya ada di sini kemudiannya bidi sini cang sedang mansungbuini adal bagai nasinikan 
+cinya di bagian sini dan adinya bagas indiri keluka terpratikan air neko di 
+dibaerah daerah yang saya berikan wawraasi panas seperti ini sedangkan fungsi 
+set ef 
+eksi yang merupakan permukaan yakan permukaan yang seperti itu dedibati integralnyaya 
+tetetaperhatikan bisa diayah diaidokan beratikan kulau kita ini memenjari menjaiki 
+ambil su sebua tongan seperti sepi itu ikat da ini adalah deotah aanya kan diatakan 
+yakan kenkedataan 
+nmati integeraannya bisa kita leukan terhadap ek dulur dengan batasnya dari 
+asama dengan biv menga temur yan kita lanjukan dengan integral beributnya terhadap 
+dier daribatasi laricisama di dengan di akau awau kita lakukan terdacsi aka 
+teradap ia duru tidak apaapat 
+ne smuda ibaau dilajukan dengan yang yang ekja dari aras camati padakujunmnya 
+dudanya masih n konstanyan gendunga guro dan masih konestan ma sekarang bagaimana 
+kalau nyak peluma bidamu bidang sebarang dikan balumnya bolon pilin bidang sembaran 
+terkratikan nnyilanggi dangai birang sebarang derikot ani itu merupakan apaa 
+gambaran yang lebih sedar khanaya kamana sedirana sekarang kata liat a secara 
+sembarang puluh mebidang sebarang diri ya masudnya labi danknya itu da 
+bisa apa saja agin tertan dari puluma dari sebuah gidam dapat juga diitung sebagai 
+juglahan dari potongan potongan bidang tersebut ke ukuran yang lebih kecil dan 
+parail dengan bindangekshi di contornya itu klau kedela digangane di bidami 
+bidang exset diki 
+na dibukan yang lebilnya di bidang sinya tusudah seperti ini diri cara umum 
+perlume seperti ani kita potong ya katupotong ain kelutur gadat bagian tekil 
+di sini jikan mnkitap keluarkan dia akan menturu sepertiini demisinan diri kita 
+gat sebagai satu apa satu area t 
+u satu luasya aleas mluar dikalikan dengar dearthagi disidikedatai didisini 
+nanikah aia arahnya kemari selumbu ia beratis ini diatanya diatayi kan rati 
+diertayi di kalikan luas keseluruhan aihnya itu menyatakkan diatafrumah yaan 
+diam menyakan data fodu 
+uma jadah nyak kita jublahkan semua kulung menyitui akan mehasikan supurumah 
+bidang sebarang yang dibawah akuruva yang apa yang embatasi di bagaian atasnya 
+banik loketannya perpotonganayan eorang bidang gin perja koran stanja di depo 
+otong ggak kearasi inikan saang saarah menama ba 
+asa la melaiku maruh matulai webero kato selama pagi semua eutara pesarta perkuliahanpan 
+lisis memerikklad dan juga kelasje seperti yang saya sudah umamkan sebelumnya 
+jari muan maaf untuk h 
+ari ini saya tidak bisa hadir di kelas namun kalau kergiatan di kelas masih 
+akan terus a berlani akan berlangsung dengan di sini dibantu oleh kakakakakkakakakak 
+astdasia baik sebelum enanti kalian akan masuk kashatilatihan bersama pe 
+kah kakakak as doas di sini asaya akan sampaikan terlebih dabilu aklansedikit 
+kelanjutan dari pelpembahasan kita dari minggu tedari hari semin kemarin tepi 
+tu ya jadi nanti latihannya juga akan terkair dengan apa yang saya bahas am 
+di sesi ini tapi itu jadi yang semu saja saya akan ar shyearstrin ape gi dahuruf 
+umah 
+makek baik jadi minggu ini kita sudah masuk ke pembahasan mengenai pe persamaan 
+meminiat di sinia danedari beberapa metoda yang sudah kita pelajari a kita sudak 
+sampai ke metro donyotonny kemari 
+i jadi akekalau kita cobariko di sini untuk meto jenyuton ini sendiri kita kebisakan 
+diketahui suatu pertamaan nondiniear em evex sepetto ya ini kurkanya naak kita 
+akan berangkat dari suatu 
+elcebakan awal exsnol di sini tebakan awalnya di sini danawini adalah tahap 
+keenol atau langkah keenol makalangkah kesatunya itu kita akan ambil dari kita 
+el kita buat agra sebuah gari sehinggungnya yangpada sum 
+pada kurpa eek yang eldititikesnol di sini tita buat suatu gari inggung seperti 
+ini dan nanti akita ambil yang amemotong sumbuk ack itu ditu nanti akan menjadi 
+pelangkah selanjutnya tua akan menjadi eksatu dalam hal inia 
+na kemarin sudah dijelaskan juga edengan pengetahuan tersebut di sini kita punya 
+sujut yang mengapit ada terta kemudian daritan yang akhirnya intinya untuk metojun 
+nyutuhan ini sendiri itu bisa di rumuskan seperti ini bentuk iterasinya ya itu 
+extanplesatu atau ekspa 
+da langkah ke enple satu itu bisa diperoleh dengan xtene di kurangi dengan exxtene 
+di bagi evaksen xne pati itu naa di sini juga sudah ada contohnya ya jadi nisalnya 
+a kita ingin menyelesaikan a 
+persamaan ini dita kita inin mencari taxks dintang yang membuat persaman ini 
+berlaku ya yang membuat dia sama dengan nol maka di sini ini adalah eseksnya 
+lalu kita cari turunan pertamanya seucara teksak di sinia turenan pertama dari 
+teevteksini 
+baru kemudian nanti kita buat formulanya di mana xenple satu sama dengan extene 
+di kurangi paex dibagi dengan fveaksen exter itu tokek na selanjutnya di sini 
+kita kemarin juga sudah membaasia apasi kiraki 
+ira kelapotansiel o prablem yang bisa muncul kal untuk memimpelementasikan meto 
+donyetoan ini ito yang paling jelas terlihat enpunya di sini adalah karena kita 
+perlu untuk mencari atau menyediakan turunan pertama dari fungsi ini secara 
+eksak dimana tugas ini bisa jadi 
+bukan merupakan tugas yang abisa dengan mudah dilakukan bahkan oleh manusia 
+kalipun sehingga kalau kita ingin mengempembantasikan suatu metrodo yang abisa 
+berlaku jeneral untuk setiap untuk sembarang persamaan lam diniar di sini maka 
+ini tentunya kurang praktikal jadinya begitu ia jadi persoalannya memang di 
+sini adalah karena kita perlu menyediakan atau mengghitung aetaksenik tetutu 
+na di sini a ada selait selanjutnya juga dijelaskan ja 
+di ada dua perablom tama a dia memang praktikal dancepat akmarin kayanya sudah 
+simpa tiga saya dimukan ya saat kita bicara tentang stixpoin dimana kawa salsatu 
+geiksnya itu sudah ambil ke formula dari inyutel met sekalian bita tahu bahwa 
+dia ora cepat di sini a 
+konpergennya nalam diani praktikal namun talau pertama kita harus menyediakan 
+peraturnan pertama dari ae tinita dia dan belum lagi suatu ishu saat di salnya 
+evaksen dari suatu exene itu sama dengan nol di atas kita tahu bahwa evaksen 
+ini ber 
+rtingi efaksian bais ibu bertindas ebagai penyebut jadi dia tidak boleh sama 
+dingan nol gita jadi ini ada dua kemukinan permasalahan digisini dari a meter 
+dimutah ini seging gadis ini akan diusulkan peseperti apa bencokran madi atau 
+perbaikannya di sini untuk kedua prmasa 
+ahan tersebut jadi untuk persualan tentang dari satif atau turunan pertama dari 
+ef kita bisa atasi dengan mencari aproksimasi dari turunan pertama tersebut 
+jadi kita mecoba gunakan ta tidak alformula eksrakde 
+ri e turunan pertama esek namun kita cari dengan aproksimasinya itu ya kitakan 
+bahasa telebih dahulu ametrodi yang pertama ini jadi dimetada yang pertama kalian 
+akan perlu untuk menentukan suatu nilaiha di sinian jadi saya misakan punya 
+suatu 
+lkumsi ekseperti ini lalu sebutlah misanya saya punya teltebakan awal exslol 
+nadi sini idenya saya akan timi suatu nielainhal nilain hal ini nanti akan sangat 
+kecil yang atau tidi ka untuk ilustrasi saya coba berbesar jadi di sini saya 
+punyaha di sini juga adaha 
+sehingga saya punya dua dciknyi di sini ada haex nolminha dan ada tesnol pelasha 
+putian atahu ya oke ini kalau kita bisara kebakan awal tapi yang kalau mau siara 
+umumia ini eksen di teriap al 
+expada tahafken di temisa jadi kita punya ekteninhal dan ekten presehat oke 
+peranakalian tuntukg ingat bahwa ecurunan pertama e ax tapada exen dia dalam 
+hal ini pada ektaniadorunan pertama efek kepada exsen itu sebenar n 
+a adalah gradian gari singgung eaxk dititikexene epeti itu na karena kita ingin 
+cari gradian bari singgung jadi hari ini fungsinya adalah untuk membancu pendekatannyaya 
+jadi di sini kita mau cari gradien garis yang memotong 
+hxpada exenlin ha dan extenpleha dimana kita tau beradia nyaita adalah dilepagi 
+di bagi delta exdertayinnya adalah exten belesha dan di kurangi expen mintha 
+diini dan dibagi dengan data exk 
+itu adalah duakak oyak oh karena sedang pan ajan di sini jadi saya potong telebi 
+dahulua arkamannya 
+baik kita akan lanjuttan lagi jadi itu tadi idilnya ya jadi dengan memili suatu 
+ha disini kita mau adekat ini ti gari singgung epur pak efek semada 
+xene dengan cara pakita buat duat itik dikutukan ada eksenplesha estendenha 
+bayangkan kalau hanya ingi kecil ditya nya diaada di sini maka agradian garis 
+potong yang megoras garis potong pada titik estendenhadan extenplesahara ini 
+akan mendekati nilai 
+dari garis inggung pada didekesa itu jadi datayinya adalah ini dan deltaiksnyang 
+kita punya dua hak yap jadi itu yang dituliskan di sini efaksen esen itu bisa 
+dituliskan sebagai efefsenpleshak minevesndinhak per dua hak untuk 
+suatu nilain hali yang kecil dan posiftif di sini ya jadi a bisa dilihat di 
+sini alau kita hanya perlu eestek saja ditya dan dimana inkutnya adalah evsen 
+pelashak ditinggak perlu laji kita sediakan eturenan pertama dari efek 
+kemudian aofsi yang kedua adalah kita menggunakan nyatudo sekan namanya jadi 
+metau desaikan ini kaadalah kalau bisa dilihat di sini kita tidak cukup hanya 
+menggunakan satu tebakan awal jadi ceritanya ka di sini kita perlu memiliki 
+dua te 
+balkan awal gitunya untuk itrasi kita jadi pedengan fungsiang sama bisan seperti 
+ini na biasayakan kita hanya mengenebak untuk ecks aenol saja begitu ya tetapi 
+a di sini tidak cukup jadi kita perlu untuk menyediakan dua tebakan awal dari 
+sebutlah bisanya 
+ada eksatu bitu ya na di sini a sama seperti an tadi idenya adalah eng kita 
+akan ka mendekati nilai evaksen ekten ini adalah dengan a jadi kalau kita mau 
+cari ekaksen eks dua ditu ya maka 
+kita akan menggunakan nilai ecton dan eksatu sepati itu jadi eseketas dan exsn 
+i 
+sedenar kita mulai yah askilagi ka selamat siang selang melaiku molu matulah 
+lubr kato selammaat bergabung kembali di kelas masiunal progremi apekan ini 
+agak sedikit ber 
+beda kita au ta tida akan membahasatau tidak akan menghabiskan keseluruhan waktu 
+untuk keras jadi saya hanya akan memelparkan sedikit slait dan sedikit pembahasahawa 
+soal 
+ekanak nanti saya ingin mengalaukasikan atu memberikan ruang kepada dengarakanskalian 
+untuk mendiskusikan dengan temantemen yang lain sebagi bagian dari persiapan 
+tegakrompoak nya awalpe nersivatnya masih topik 
+katgo sekolpoknyan ki dikerjakan sekelami tes acuman saya rasa perlu di kecil 
+edia jojo hari lah kit ya asambil cari cari ideatau cari cari teman yang mungkin 
+idenya sama tau pekrjatnya sama 
+supaya nanti prosesnya juga bisa maksima nantik kitakan baharas lebih lanjut 
+diakhir ka sebelum akelasnya saya tutup yan jadi amon maaf untu pekan ini saya 
+tidak memaparkana diskusi yang diforum walaupun diskursinya 
+sangat menarik nanti saya akan tanggapi tentunya a beberapa mungkin sudah seyetang 
+lebih abiasanyakan saya shyardikusinya ditia disini teman karena memang a saya 
+ingin waktunya di pendekan karena kita perluh bahasa tugas a mnjadi 
+utupukan ini tidak ada pembahasan mukin bukan depan saya kan aborong kalian 
+setiap aeyang jelan saya suda lihat ya tulisan rkanrkan skalian dan sangat menarik 
+itia saya lihat beberperkanakan 
+waabelajar dengan atusias dan itu sangat baik bisa menghubumkan denga nolisnuali 
+sebelumnya itu adalah poin yang kita ingin capa yang kerlansaiskem belajaran 
+bahwau kita bisa menghubumkan dengan pengetahun kita sebelumnya dan itu haa 
+perlu kita jaga da 
+saya juga akan belikan aplisiasi terahidap pan tersebut termasun juga a saya 
+akan pilih ditu jadi beberapa atulisan tulisan tersebut untuk menjadi bagian 
+dari evaluasi dikotak tatu di ujian akhir nanti yang sehinggat tent 
+inya bawat turkanaka yang menulis sendiria bisa dengan cepat menjawabnya daedega 
+renkan yang menyimak juga bisa mendapatkan manfaatnya itiakan ememang atulisan 
+tulisan yang ada itu sangat sangat bermanfaat majadi astilahkan dipelajari itu 
+akan membuat 
+wawasin ita menjadi semakin kaya a sudah hampir ada berapa ya hamukinlebih dari 
+lima puluh catapa lima puluh percakapan menyudia di ivodo a mungkin jiga saya 
+butuh bantuan astdros danti untuk bantu saya karenas uda semakin banyak namun 
+masih kurang 
+ng dibanding pesepannya sendiri dia kalau saya lihat a saya cukup keukan ada 
+beberapa reganakan yang sepertinya masih belum aterlalu berani atau mungkinbinggung 
+gitu yang monul sapa na 
+hungukkaan tsutup yang ng masih belumcukup berani mengkapkan pemikirannya ta 
+refeksinya saya ain kori kekali lagi hitu yah a untuk memberanikan diri a dania 
+itu pentingkanna a 
+kalian nantikan akan jadi calanpemimpinnkitnya singga halo memiliki kemampuan 
+apak komputensi atau kecerampilan untup mengungkapkan pikiran kita permahaman 
+kita itu adalah sesuatu hal yang yang mecrak yang perlu ka perlu dilatih i 
+tidak mempungasi dalam dunia pergoliahan ahsilakan kembangkan kapusitas kalaig 
+semaksi malemungkin marena kolonggak nanti yang akan diangkat jadi pimpina atu 
+yang memimpin kalian adalah orang orang yang pandingngomog dani mungkin sekilnya 
+kurang dentaya jeria kanya kalian sebagi anak bulanh juga 
+akanakan repot di koakibatnya itya dan juga kolakalantididunia apemerintahan 
+ini juga kita sudah lihat sendiri itelal dilihat sa banyak anggota mungkin angguta 
+dewan yang terpilih hirtia mungkin mereka pan 
+dai dolemememaparkan dirinya tapi mukin belum tentu mereka punya substansi menolic 
+yang yang memadai singgal kita banyak temukan juga banyak a kritika kritiko 
+kritikos yang memang noli jebou sangat nolis tapi dianaik kenga penggak terpilih 
+dengin karena mereka juga tidak 
+tidak bisa mengajukan antu memafarkan pengetahuan meleka dengan baik jiri ketrampilan 
+ituk bisa memeparkan itu sangat baik nanamu saya maklumnkinada beberapa yang 
+haapa lagi buda yang kita budaya indonesia budaya timur itu budaya yang cenderung 
+malu malu idu yang cenrung 
+introvorte atau tertutup aptuk mungkin plu profal yateni silaklou istilah positifnas 
+di rof muproval yan tepi kalau berlebihan leprofaalnya njadi kulah bagu suga 
+najiri untuk beberapa rkandarkan yang mungkin masih belum saya berikan alkarnatif 
+penggantinya anatidih 
+akhira kuliah saya akan epaparkan dan etu maapenamanya sjuga memperjelas kenava 
+saya ingin la untuk pekan ini kitara kurangi dulu kuliahnya dan saya berikan 
+ruang kepadaan kalian nanti untuk bisa 
+ngobro dulu sama temun teminnya diskusi cari ida untuk ha bakir tuga s kolompok 
+emaupon abua temanteman yang belum pernah menulis di vorum untuk bisa mungkin 
+cari klobok sametemeneman yang belum juga dan habikin atarnatif kegiatan atau 
+turga sepengganti dari aforongforun yang sebelumnya tidak aktiviku baik akita 
+matirinya pekaan ini adalah tentang lezih envaluashan ya kusai hae njadi 
+i loh lezi progeming itu e progi mistaol itya jadi bukanartinya malas mikin 
+program itnya ah dan jadilaglizi progremi itu sebenadar progliming yang melmanfaatkan 
+asprek ataustratigi 
+idari lagi lezi evaluisian yang dimiliki oleh sebuah bahasa pemograman tantunya 
+kita tahu dalampembahasan diawal bahwa ada taksonomi bahasa memograman dan leizi 
+ivrldisian itu adalah bagian dari ara taksi onomi di pada dikma permograman 
+fungsional dan ti 
+dak semua fangsiunal progrem itu memiliki alezi evoliisen stratuji ia beberapa 
+tidak punya kaya evxshork salah satufangsiunal progremin yang dikembangkan maikrosoft 
+dia itustrik evolisin dia tidak punya sratigi lagi lezi evolesen 
+nadengan memanfaatkan lizi voulisian ini makan kita akan punya sedikit gaya 
+pengugraman yanagak berbeda gittiap atau menyusuaikan dalam penyelesain maksalah 
+jadi agak sedikit berbeda metia tentunya dari isudut pandang apa lagi has kau 
+progam milaitu ahauakan mabe 
+ntuk tolu yang lebialgan menitia mungkin araar bagi heskolp bor gaima nitatiribagi 
+ang bukan hesl borgaimungkin ah anggak misteriusnyi kenapa bisa jalan yang progra 
+memitanya padang kalau dari sudat pandang iperhativ itukai inggak mungkin jalan 
+tel progan utui bahkan invinat enork e 
+ivika belare aral invinit a luf pegi tun misannya naa dalam haskal juga konsikvensi 
+dengan lezi evalusian itu alakan membentuk interme diatlis yang hanya di jenren 
+atau dialukasikan ondiman sayat dibutihkan saja na 
+h ini punya konsi vansiang menarik singgak kalau kita bikin program dengan banyak 
+lis ya apa sebenaya program itu kompleksitas komputasinya tidak mahal lau di 
+dalam heshel ya jingka kita bisa berbikir program dengan ban 
+nyak lee setenganmu ofrasi kan banyak lis tapi sebendara efektivitasnya sama 
+saja ringin klalau kita sedikitlisnya tik agabeda ka susyangkalau kita bikin 
+dijafa walau kita bikin mimpermetasi jafa kita bikin pakai banyak erei kita 
+tahu orai itu akan mengalukasikan oalfiks naapa nemori kalau kyasikan 
+ilkan nei mengketaluan depan naman ujungya bedak semelinglisnya walau inglis 
+akidur bisa gurukan bihasa menanyang kebutuhn duri kalau kitu bicarari dia kang 
+song fiks nya kadan itu aakan mahal mintinya na di haco arli i 
+itu natikankaliannya titu jugak bisa diimpleman dalam untuk in vinet lis yang 
+kemudian kalau itu digunakan secara leizi a bisa bikin mau banyak jugang apapa 
+dan ini tentunya akan bermainfat juga untuk kalau kita bicara a data seliming 
+data serimim itu ma 
+ksudnya bukan data sriming itu bukan vidio strimininit tapi datasdia mengaturkan 
+saksi yang turus mengalir masuk yang datanya harus tiolah kalau kita tunggu 
+prosesnya ituato alau kita tutup hari gita baru musan leluiken kita proses kedaku 
+pul indunes semuanya data 
+ya masuk a kita prosesenyara bac itu akaakan makan waktu yang luar biasa tia 
+dan juga hasilnya tan ketawannya belakangan itu ya asementara sekarang ini keputusan 
+sering perlu dilakukan segera 
+singga muncullah era prosesing yang terkai dengan datasdi minggiri da tanya 
+masud lampung di proses datanya masuk matu di prastes na ini dalam a 
+nakita perkenalan dengan apa yang disepu dengan eroh eror adalah perbedaan data 
+yang dikirim dan yang teriditerima atau dalam konteks lain mesanya kita ingin 
+menyimpan lalu apakah yang 
+disimpan itu sudah benar jika yang disimpan ternyata mengandung perbedaan dengan 
+yang malau kita tuliskan maka itu adalah erok erot bisa terjadi oleh karena 
+ahcacat fisik 
+komponen yangbiasanya ini yang dispu dengancacat permanen kanal pada satupin 
+tertentug misanya dia akan selalu mengasilkan satu terus atau enol terus tapi 
+ada juga eror yang sivatnya te 
+mporer misanya karena spikteganan listrik misanya kena petir maka dimungkinkan 
+terjadinya eroh yang nom perbajadi satu satu jadi erok jak satu jadi enok nauntok 
+itu kita perlu mendeteksi adanya eror ada 
+nya perubahan data yang terjadi selama proses penyimpanan atau proses transmisi 
+erork itu menyebabkan sebuah kudworge berubah menjadi nonkut worge apa itu kotuar 
+kuturs adalah a satu set a sistem satusakut yang ada di dalam sebuah sistem 
+yang dipakek untuk memmuang ekspresikan asatukuk einformasi tertentu 
+jika ada string bindare ataukot yang diluar dari yang set kotuar semakan dia 
+disebut nonko duas nayang kokoduars ini adalah biasanya informasi yang falit 
+jika nanti diterima oleh penerima dan mdia melihat bahwa ini bukan set kudluar 
+cemaka pasti ada eror dis itu jadik yang dikiram sepertunya kotluar tetapi karena 
+ada perubahan yang terjadi ketika transmisi 
+aka memungkinkan itu burbah menjadi nonkut wor setiap akut yang teridi dari 
+enplesat tumpit memiliki jumlah btsatu seca 
+ra genap da jumlahnya kenap maka itu yang disebut bahwa kut ini memenga dobsi 
+ivonperitikut kut itu memiliki pit perniles satu yang genap sebaliknya jika 
+kut itu memiliki jumlah 
+bit satu yang ganjil maka dia adalah otperitikut jadi perritibit itu satambahan 
+satu bit untuk membuat satu stering binar yang tadinya ju 
+mlanya en setelah ditambah satu itu mememenuhi jumlah pitsatunya kenap atau 
+ganjil cantanya ini talau ini sebah ivun perli tikut maka kumpulan kut ini di 
+tambah satu pitperitinya nanti jumlah ppitpernilesatunya harus genap kita itung 
+ini adah satu dua tiga empat lima pernilai saltu lima itu ganjil supaya dia 
+pernilaik genap maka harus ditambah kan 
+satu pit pernilai satu yang bawah ini adalah contoh operitikut kita hitungpit 
+satunya satu dua tiga empat lima kana nilainya sudah ganjil 
+dan kita berharap bahwa dalam kelompok ini adalah ganjil maka kita tinggal menambahkan 
+nol singgal secara keselurukhan enplas satu itu memiliki jumlah pit pernelasatu 
+yang ganjil ini cantah 
+h beberapa desi mlekut yang lain kita sudah bahas sebelumnya a ini saya tampilkan 
+kembali di sini untuk memenberikan contoh inilah yang disebut kutduart dalam 
+baikuiniri 
+desimalkuts dalam baikri neri itu selalu diekspresikan oleh a tuju bit di mana 
+setiap kut memiliki bid pernilesat 
+tudua bid pernelesatu hanya ada dua dari tuju yang ada di dalam pikuneri ini 
+sesunanya sudah ditentukan dimana kita lihat bahwa kelompok besar selalu 
+memiliki musiknifiknpit satu kelompo yang kecil memiliki musiknifikenpit yang 
+nol nasusunan dari satu pit satu di keseluruan sering ini sudah 
+ficks karena memang ditujukan untuk mengespresikan desimal secara baiku ineri 
+ini mesanya inigat menawa satu berlati dia paruh bawa paruh bawah di yang mana 
+yang bit satu nya ada di sini ini adalah simbol dari 
+nol kalau dia bergesar pitsatunya di sini maka dia simbul dari desima satu dan 
+seterusnya maka kalau kita punya tujubit maka dua pangkat tujuh kombinasi yang 
+dimungkinkan bukan ini nilainya adalah seratu 
+s dua puluh delapan tapi didalam desimal baikunrikut kita hanya memakai sepuluh 
+saja sepuluh simbul inilah yang disebutkudworde kalau enan 
+ti adadata angka diluar yang sudah ditentukan itu yang namanya nonkut burte 
+nanonkotuat itu bisa muncul karena adanya eror yang dikirim sudah benar kudur 
+tetapi diterimanonkut luart zebelti ada kemungkinan eror terjadi ditengah jalan 
+ena untuk itulah kita perlu melakukan deoteksi ada anya eror itu di mana ya 
+jadi sekali lagi kita contohkan ini informasi aselinya dan kita perlu menambahkan 
+satu perity 
+untuk membuat keseluruhan memiliki nilai satu di jumlah bityang gajil jadi di 
+sini satu dua tiga empat maka pasti butuh satu lagi untuk mengmemper 
+rtahankan biar ganjil satu dua tiga nol satu dua tiga empat satu satu dua tiga 
+nol kalau yang dikanan camtahnya ada adalah ivanpairitibit supaya genap tu dua 
+tiga empat nol sumpai tetap genap 
+satu dua tiga satu satu dua tiga empat nol satu dua tiga satu ya jadi pari tibit 
+yang diperlukan adalah auntuk menjaga supai keseluruhannya memiliki pit yang 
+dimaksud nta 
+ganjil entarkenap baik naa kita perlu tahu oke dalam sebuah pelompok kalau kita 
+tahu bahwa ada bit yang eror maka didoteksi dari keseluruhan kelompot tersebut 
+a 
+pakah tetap ganjil atau tetap genakngga pit pernilesatunya tapi kalau kita tahu 
+itu eror kita masih belum tahu itu pusisinya dimana eror itu karena sebenternya 
+kalau kita tahu posi sipit 
+ada satu bit yang erok maka kita tinggal mengkoreksinya dengan membalik naujadi 
+satu atau satu jadi enlal na kemudian ditahun sembelan belas lima puluh ditemukan 
+oleh heming untuk menme 
+cara mendeteksi posisi eror hembeng memberikanmenempatkan peringtibit itu pada 
+pusisi pusisi tertentu dalam stering kelompok yang adikirin ya 
+cantahnya seperti ini maka kut ini disebut hemingkut karena ditemukan oleh hembing 
+jika kita memiliki informasi empat pit ma 
+ka di pusisikan empat bit itu ada di pusisi ini tujuh enam lima tiga yang putih 
+ya dan dia memberikan peritibit tiga buah tiga birperiti di p 
+usisi satu dua dan empat kita ingat bilangan pilangan empat dua satu ini kas 
+untuk sistem digital ya itu merupakan pilangan pangkat pilangan pawor aftu dua 
+pangkat nol dua pa 
+ngkat satu dua pangkat dua ditu yak sementara kita auikuti alaur pikir sihembing 
+ketika mel mencitakan ini jadi sekalilaki empat bit informasi dijadikan tuju 
+dengan tambah an tigap 
+pe 
+ya jadi asebelum mulaia sebelum masuk kearteftatorut ini saya akan menjelaskan 
+dulu tentang 
+relasi kan kalau kitalut camainya keapaek eseam ini kayak di kehidupannyata 
+aja anar obse itu ada hubunganyakan kantanya misalkan sesimpal oh 
+tinggal di perkotaan dia bunyak atribut nama dan trus bisankan contokh lanya 
+jugani 
+eplanggan mau memesakan sesuatu bgitut punangan initus saya dia punya atribut 
+mungkin nama dan email audras sebagainya trus tialokan pemesanan dimana pempesanannyi 
+punya atribut aseperti oltor valyo sam 
+ma pesal menanyakaap itu ditanggal berapa nehentiti yang dimaksud in itu eobjek 
+yang ada judri di dunianya tadadig terus k 
+natrus habis itu dari konsept yang tadihubungan antar antritas ini telah kenapa 
+akhirnya ada yang membangun sebuh prenembul 
+eh sebelum itu untuk meeuntuk membidakan antar masingmasing antitas ini akan 
+membutuh kai ad rang bida gitya kita kau mingjak tahualau kita belum tahu manamammanusia 
+menarap snyapa 
+itu bahasa kekomputerkan nehpembeda inilah yang di setiak kuat itu juara untuk 
+sampai sini konset relasi uda nangkap belum 
+kalau uda kita lancu ta jas jadi jari relasi antar 
+antik ada kebaliamuit esiebat kerasal dan lewai bki sous lif pormaasinya nah 
+bibut 
+dvf dan aya elat utangang yang jikasi sama yang bangun artev ini itu edef ini 
+mamiliki diapnya ada dicural tus kecolah seperti yang bisa kaliat 
+lihat di sini itu sepertian di sinitus ti juga punya pisoryang jelas juga ada 
+jua idu arairnya itu pestripel tuugraf dataset dan kuat dan mdengat nehuntuk 
+untuk bikeuntuk plingna sendiri itu 
+edepaki kepas untuk objeki hangga ada yoeyoarainya conto kita mau apikin aba 
+e membuat hubungan antar manusia dengan tinggi badan cantohnya ada persa namany 
+ya chiri di mana dia punya tinggi badan tapi tinggi badanya ini nggak coman 
+segedar angka aja yang ditanggalkan selanangka dia juga heus meninjukkin ukuhannya 
+pidayi tinggi badan itu diharus murju ke suatu 
+eobjek ankapi adalah terima kaki eh edan carnan dak ada yang nama nya an nem 
+entiti tinggi badan jari ti 
+dila akhirnya dia di gunakan menjadi blinglot alia ngak ada keituralnya sama 
+sekali na ad selit dari tadi kang jata uda eapa nam yang melihat kaya bagaimana 
+itu bagaimana 
+erdfo yang secara afstraknyalan setela bahasa bahasa afstrak yang adaf tadi 
+ada teriparnya ada sabjektus dihibungkan dalam predikat kealah ojatnya neri 
+udah kebentuk bebahasa absuraknya itu 
+kemudian orang ini membuat kamus nya sendiri dan bersama dengan kamus adev itu 
+dibuattas kemah si adevitu dan anda juga di hinakilainya seseperti mungkin alwelelskos 
+dan sebagainya n 
+a untuk ngambil masingmasin datanya ini dia enari menguntuk kaya validasinya 
+mengecek pedatanya iti menggunakan sisyakla nga contohnya 
+mishal di sini kita punya data tabel mata kole estia dengan jadwalnya begini 
+silakan buat ertiap untuk jadwal matakuleh kurikut ima menit ajah 
+adadaa peda inii 
+aku bengar 
+dai dingi dia san kamu beaalai igitku mengamumin kamu makan kamu 
+selamat siang eibubapak semua kita mendapat kesempatan luar biasa di kuliah 
+ikon selanjut pada har ini kamis mengam belasakanbar luar i gurugu satu bapa 
+hadikuncoro bli 
+o adala fandar dan siiko dari pawarkomasreasia dengan pengalamannya mungkin 
+dua sampai tiga tikada yang pak hadia di industri kaumak mumai dari masih sudahpeturranbut 
+ta spudehfekterania mulai dari mondon judah 
+aa ya yahsembilan nanpertama kali punya frimal masih namanya juga hotmaiel hotmail 
+ibur mail diemark jaman dulian 
+embilan empak sembilan lima sandiman dimana mungkin sebagian pesertani baru 
+lahir tempin belum lahirnyu ugak ptini buat temanteman semua kita bersyukur 
+ada hari kmuncuy sini ya ak 
+ana membuka oawasantaitan dengapas di mana industriiko mars dulu sekarang adan 
+tertama kedepannya singga ketikatemanteman dapat tugas tugas mata kuliahnyakan 
+membuat sebuah jurnal pepter hadi tentang kopyak tetikan kita belajar bukan 
+lan 
+untuk mata kuliah kita da jas juga untuk ekontribusi kita kedepan mungkin ada 
+yang mau jadi emenjadi kesalar mungkin ada yang memeja di atropn menjadi fondor 
+long vondorlong jadi vondondon indonesia butuh vondol butuh ondalan lebis banyak 
+dan nggasaak 
+ayah angak nanti saya cerita in setakut takutnya paling berapa milyar ilangku 
+akuami kagat lagi lebih juni kuan berkata terialiun waktu dan tempat 
+kami persilakan silakanpa dipencara mulai epakarannya makasih baik mohon igin 
+sebelumnya ekita diseping berapa lama yabu betty ekuliangnya itu bisa sampa 
+jam lima al gettasia baik baik 
+saya suka lupa diri ribu kalau lagi mendongyeng akakacenanya ekhahabaik terima 
+kasih sekali berbetty terima kasih temanteman semua dari e kerpultas ilmu komputer 
+ugi ka sebuah kelapau nama 
+ya sebuah kehormatan buat saya untuk ebisa berbagi atau shyering yang mana saya 
+kalau dibilang sebatulnya udah dalam masuk katagori kfetteran di dunia i komers 
+njadi ehating temanteman pasti ivnmore yangga 
+ryah yangger denmi pasti jauh harusnya lebih lebih punya abdat abdat yang luar 
+biasa tapi thangsgak aiga brivilez untuk terus bergabung di ndustri ini seingal 
+mudah mudahan ia saya ngagagakkalah abdarnyalah dari temantemanyah dilitellap 
+desitu jadia itu 
+yamungkin inal saya sedikit eingin menyampaikan kemudian yang kedua sou aeteng 
+amnak anak delekcer jallah jadi esaya mahun dimaafkan kalau kalau nanti lebih 
+banyak mendongengnya yah bill daripada kemudian sebuah e 
+apa eturi tauri yang akan saya bagikan dilltikaikana saya tidak berteori soseperti 
+itu saubatan lebih banyak kepada uarnis debefpresbresbrespraktis yang pernah 
+kita jalani dan kedepan seperti apa yang saat ini industri sedang berubah 
+wicidat saat ini theaks gat saya imponteng indisindastri seinggah kemudian emudah 
+mudahan bisa dapat berbagi dengan temanteman keyang tadi bubeti sampaikan bahwa 
+dulu kaya apa perubahan revolusinya seperti apa 
+dan kedepan itu kirakiranya seperti apasi atau tementeman temanteman sayalah 
+terutama eapa setawa vondorfondol ini lagi pada ngapa rinsehill yadan luar biasanya 
+mungkin berbetty saya sedikit bocorin keselait saya dua hari lalu 
+dengan hari ini sudah beda beda dua secelait dezit kenapa karena kita berdapat 
+abdiat lagi dua hari trakhir ini ada sesuatu yang terjadi berubah disitu naasingga 
+kemudian ebetapa saya ingin menjabarkan kepada teman teman bahwa industri teapa 
+amaya yank berbahasis di jital ini aving revolusia sayangak bisa bilang evolusia 
+revolusinya itu luar biasa setiap hari itu adajah apa perubahan perkembangan 
+atau hal hal yang baru yang yang bisa kitak dengar desitu apakah itu lamg sung 
+akan berhasil 
+belum tentu apakah itu kemudian eapa meking samping erima kebau maling tidak 
+foisnya kedengaran nyang ginturldi sidu apakah itu sesuatu hal yang benar akan 
+berhasil lantanyak belum tantu juga dita di situ naitu yang mungkin etasebegron 
+mungkin saya me 
+imaafkan kalau nanti tidak menyenangkan cara mengajar saya karena caranya mungkin 
+lebih kepada sebagai seorang praktisi bohon ijin kalau begitu buu betti saya 
+untuk berbagi epaparan yang bagi teman temin baik ye 
+sudah bisa siang ya i manda kesilakan padi oke baik terima kasih temantemaun 
+sudah keliharkan selayutnya mudamu da man sudah terlihat 
+yah pakaik baik terima kasih kobetty tagiang terima kasih kepada dapa dah manteman 
+dari letak tovi ovkampitor saen eunivirsasi indonesia so saya akan memulai dengan 
+eselamat sore semuanya semoga kita sehatsehal semua semenlaihroah ma rohim seelamu 
+aliku murah matuulahi weborobatu 
+hasaya akan mgengambil sebuah tematik di mana bukan ikomers lagi tapi sebuah 
+super ekosistem apa itu superekosistem menwat isteneks gaimnya kedepan badandalam 
+kerangka i ini saya mengambil satema adalah iko 
+mes draiving biskital ekonominya indonesia caa itu yang mungkin saya akan sedikit 
+eapat na maya sering den dengan temanteman keik kemohon ijin perkenalkan saat 
+ini saya e menjadi epondere dan juga si io dari 
+bawar komas ejia adi mamolkomos t isia ini adalah sebuah setaap dua tahun setengah 
+yang lalu hampir tiga tahun saat ini masuk ketiga tahun eapa namanya edimana 
+bawar komes ini adalah membangun sebuah di komes omli ceanal enebler 
+dan supleicen mena juman teknoloji solusiun dan servesis nanti bemi sedikit 
+sa siring tentang pau komers taping lagaru banyak so hafil e if ai e cek dam 
+tumai profesional karir i 
+itu eapa namanya dua puluh tahun lebihkhlah saya ahampir dokulur lima tahun 
+di mana separunya itu adalah sebagai profesional amosofdam adalah di muntin 
+nasional kamir beni dan mosofdan adalah ekarenakor kom 
+pataan saya adalah disuklai jen dan diritel disnis maka kemudian lebih banyak 
+di industri atau di area esuplaijen elojist erintel distribusian networg dan 
+sejenisnya amulai dari eakan namanya sebuah perusahaan lojistik 
+grup di indonesia waktu itu dapat pendidikan esklorship dari semudai indonesia 
+grup kemudian membangun sebuah perusahaan jerman elojistikampeniji aniolojistika 
+indonesia eselama hampir lima tahun dari nol perusahaan itu sampai kemudian 
+eksis di so 
+isesia a perusahan lojistik yang berfokus kepada esolusien supleijien enlojistik 
+untuk barang barang bahaya dan beracut jadi ekemikel oilges epormasi itu eyang 
+kitatangani pada saat itu dan biar edetan 
+eephayenir lesebagai sebuah perusahaan sodusi supleijen enlejistik untuk barang 
+barang bahaya dan berlacut pada saat itu kemudian dorpak berpindah dari selevisis 
+ke eprincipal ebergabung dengan ade swoter dimana ada swota besini adalah 
+goinvencer ftivfti antara mengeslai dengan cocacola randistris oso devrstaine 
+di dunia pada saat itu mungkinnya sampaisekarang bahwa komputi terantara komputisian 
+antara etdan cocacola bergabung hanya di indonesia membeli perusahaan wada suator 
+indonesia ini me 
+lahirkan genra waktu itu adalah saya bertugas untuk menciputakan apa menevecer 
+prodaksiun senter dan juga enetluk distribusi sampai ke pasar dengan distributor 
+distributor peuntuk sebuah brem atau prodak yang sekarang dikenal di pasar air 
+minu 
+m nslevyur laift naa itu esaya gen lasi pertama memulai membanggun pabrik membangun 
+nebdok distribusi sampai tesempak juga di setahun terakhir saya memimpin sell 
+stime edi perusahan tersebut lumudan eberalih ke 
+pepurusanlain ebaisdhof lejerman kambarni juga yang menghasilkan niivaahan saplas 
+dan temantemennya kemudian sempat diritel dandairek salingka meni emailen eauriflan 
+di sinilah sebetulnya tahun dua ribu sembilan sampai dua ribu sebelas saya mengenal 
+di komars 
+adi di sinilah oriflim indonesia saya memmurgubah bisnis model l emlemor di 
+vlem ini yang tadinya konser order bisnisnya konvensional jadi kalau nordor 
+lewat veclewat telpohon dan sejenisia birubahlah menjadi onlain order ketapi 
+buka 
+n untuk publik taetapi untuk member agen agen emailem waktu itu jaman dua ribu 
+sembilan sampai dua ribu sebelah sayetanganin 
+anaknya ktadi nggak sepertambilan biasanya atau aku yang lahiku perri kelari 
+sunara menarhi masalah melaiku markemaca perok aitu salahsa terah buat kita 
+semanya aterima kasih a ibu betty juga 
+lebui mary yang sudah mengundang saya untuk njadi pengisidos yang kamu di kuliah 
+i kamar elanjut ini smeresa bukan termasuk esportnya ya masaya ia tahu tapi 
+mungkin bbukan yang tahu segalanya kita ya 
+kemanantisa akan mencoba menmemberikan beberapa apa yang hal trakai dengantahorisat 
+dibidang i kamars yang mungki nanti bisa leapa yang adi adik adia ada ya yang 
+temanteman anakanak ya kecugah bisa lakukan di dalam emanagula in 
+nikita npemungkin yang pertama cakai dengan nanti kita bicara mengenaik konsep 
+i kamer sa pikir semua juga sudah tahu karena einkan sudah minggu yang kedua 
+ya yang artinya mungkin sudah juga diberekan sebuah introdaksen menapa sebuaik 
+oncap mengnai kamars ketia diri sekedar mungkin larivras saja mengenaik konsen 
+i kamars yang nanti na banyak devinisia dadi natisilakan gunang asi divinisi 
+ang yang mungkin ada lacuhan rasmina tabi di dalamaslat ini saya menggunakan 
+devinisiang ini 
+jadi ini merupakan sebagai e pertukaraninformasi antara organisasi dan kembunan 
+esterasi lodor teria yang semuah dimediashi oleh media elektronik ya yang nanti 
+ini bisa memberikan berbagai macam prospektif dar sisi komuni 
+kasi inia adalah berjendir seba dilivari dari subai informasi prodak atau selvis 
+atau paing eto paimen yang menggunakan caraan eaktronis atau dari shishi nanti 
+bisnis proses prospektif ini bicara meneatom otomasi dari transaksi bisis dalan 
+waklunya gituap terus kemu 
+dan dari sishisa usprospektif ingani kembudan kosakting ingris inspit dan cualti 
+ofservisis sampai adashionlain prospektidida kita bicara mengunahi ta penjualan 
+dan pembelan cara onlene da nam biasanya mungkin yang sering tandengar adalah 
+dari sisi yang nemorempat ini apuah kaluki 
+ta bicara ikamars ingatnya apa yang merempat inikan ewapa mungkin kita bicalang 
+sungwa da nanti tak zada ada toko edia ada mungkin bleebli destrusnya ya naini 
+yang kita kkakai tetang sebuah poncap mengenai kamar sya natapi nanti juga emo 
+juga nanti di ingat buah kita bicara nantirisyetidang sebuah i kamar senanti 
+itu tidak melulus bicara mengenai konteks yang seling setnya tadia yang bicara 
+mengenai penjualannya saja bawa nanti kita bicara sebuai kamar sistem yang nanti 
+ini adalam rupang sebuah infarmen yang luas yang juga 
+mencakup semuah setrigholdor yang terkait yag jadi nanti mungkin bicara mengenai 
+makek asosiashan maket exsperat konsangt ng ajian si semejia kontilagi seletor 
+ya mungkinoikamars agan sinsurusia laya termasud nanti yang supayatdan seterusnya 
+nini 
+merupakan nanti merupakaneinfarman dari sebuah nanti eelekori kamar sia yang 
+nantia mungkin etemanteman di sini nanti kemuga juga harus mulai uar bahwa kalau 
+kita bicara ikampak nanti tidak muluh lebih cara mengenai konteksnya penjualan 
+di dalam sebuah ikamar sajaya tapi nanti ya kit 
+a boleh menelitih semua espektarkai aleksia apapak saya bicara sebuah sublet 
+jan menajeman buleng arpa yang bowle kenapa karan kita bicara mengenai ikamar 
+s juganggak lepas dar sebua logistik ya kacakalak saya membeli sebuah ikamar 
+membeli dar to kopi dia nanti kanapa dia akan berpaknor dengan 
+siapa misakan dengan gojek ya inikan contok sebuah bagaimana kemunan pengaturan 
+dari delivri di dalam sebah kontek sya i kamur s yang mungkin melibat beberapa 
+pakter yang aterkait nantinya ya daa juga ini yah jadi kalau nanti kita lihat 
+di sini nanti ada 
+a menduvaicero disrbutor hoselsnya kemudian ponlen sopinya sti goldernya termasuk 
+nanti lebispak eden komputitorsnya nanik cuma adalah bagian darisebuah inparaman 
+di dalam sebuah nanti ikamur ssistem yia bayangkaan nanti kita bpemerupakan 
+sebua 
+entrprasistemenanti inikan epasi ada proses untuk bui einiah ebui setnya yang 
+mereka akan mengkrekprodaknya terus nanti butuhban bakunya yang antidik ambilk 
+akan terkait dengan suplayurnya ketia jadi bagaimana kemudian mula dari banbaku 
+mas 
+uk sampak jadi prodak nantik kemuda dijual judia sampaian kemdibeli oleh konsumen 
+nananti semua itu juga akan didebagian dari sebuai kamar sistem nantinya ya 
+ya natros ojuga seringkali nanti karena seperti itu akhirnya e 
+oapaymungkin ikamar sistem juga akhirnya juga sering kali di pertukakan secara 
+terminulogi a dengan sebuah konseri bisnis waluku sebenarnya kalau kita beberapa 
+litrator mereka membindakan antara konser i kamurs dan kemudan bisnis jadi kalau 
+tida bicara ibisnis lebih luas dari pada ikamurs karena tadi bawa kabukan bicara 
+ikamars mungkin orang mikir dengan bera beyang fokusnya di bagian saling setnya 
+tadia yang bicara bagimar cara carau untuk menjual sebuah prudak kearah ke konsumen 
+nantina neny yang sering kali orang tiga melai sebua konseka 
+mersnah akibatnya sebagai apanamanya eeoinya membelijakannya akhar nyai seperti 
+ini ada baik satnya ikamars ini yang terkai dengan suplayer untu iniya mempelehban 
+baku sampak jadi sebuah prodak yang ta 
+n dijual nantinya ituyang adalah baiset dari ikamasnya yang kemudian nanti yang 
+ada saling satnya ini yang besak orang mengerti menekonsep ikamus ajalan saling 
+satnya ini yang bicara mengenaihauikan salprodaktu apakah sta mbessara onlen 
+tadinya itu ya ndi sini yang kemudian akhina kita bjaseba 
+ibesnisa bagian dari kombinasi jari keduanya tadi itu ya na ini yangesingga 
+naki tidak bisak suba konsernya ibisnis ja ini akan meliputi seperti ini semua 
+proses bisnis aplifitis yang dilakon deleh organisasi ta dimulai dari saat raya 
+keca butuh oapa namanya 
+sya butu mbisalkan esupair batbantaku prodak saya kitu adalah bagin tersebar 
+ansa ibisnis yang mungkin gak ter masuk bertendir sebaik kamar sistem ya ini 
+yang menjadi eperbidan nanti antara sebuah konser i kamars dan ibisnis kitiakirkera 
+seperti ini 
+netrus kemudian e tadia bahwa kita bicara sebuah in ikamar skan pasi akan menganggalkan 
+sebuah komunikasi secara penlen dan kemujian oflen antinya yah jadi ini yang 
+kemudian bisai akan menganjalkan mula dari webset dan sosial brizan yag 
+yang ini nanti eumula jari sat sema keting menoflan komunikasian ada intraktif 
+eks ofsen inemail kemenu sosial mejamar keting oflan komunikas olin paknasif 
+yah ini semua tiadalah campa beberapa nanti hal yang bukin akan ada beberapa 
+a ini konsep yang akan terkai dengan sumua taji itu misakan apa yang sering 
+orang pikirkan apa mengenai kaya asecma keting ada padak ada masi oya suatanyak 
+umuk of oftimisasan yang ini apa nanti kalau saya nang tisorcing diapa namanya 
+digooga membisalkan bagaim 
+are cara kemujan wisakan prodak sya langsung nomor satu di google ini pentinggak 
+yang penting kalau buat kita sebagai penjual sebuah prodak maunya apa kalau 
+ketika dicari ia nanti apa mujual di atas kalau munculnya sudah mula gak dibelakangkan 
+urang sudah mulai kanana 
+ng nalas yang untuk mencahri sampai dalamasekian kalau saya aja misakan mencari 
+apa yang menulus sui googleitu paling mungkin sampaik coma halaman sepuluh terus 
+udah stop taknya udah makinga jelas main kaca gi kenjah jadi besanya apa orang 
+kembunah budnamashi iokutua trous kemudia juga ada 
+pecsyor p perklik jugakan sama nantia kadengdekan orangkan juga esering kali 
+engdikasi apa namanya itu erewore kalau kemujian ada yan yan kelik sebuah alamator 
+tentu ya nanti mungkin dia akan dapat bisakan dibayar 
+ari sana itu anda a ini nanti adalah congtok baginda sersarcoremarketing yana 
+nanti inimerupakan semua adalah bagian dari nanti taknik anti komunikasi yang 
+anti orang akan pergunakan di dalam sebuah kontesa nanti aikamars nantia nenetrostra 
+kana dengan nanti evolusi dari bteknoloji juga ini semakin berkembang jitiya 
+karena mulai dari jaman dulu jaman saya ketika pertama kali masuk fasil tom 
+tahun sembelan puluh lima mungkin interat baru mulai masuk belum banyak jeta 
+jedi dulu omas 
+hi apa ya dul itu aya memisalkan kau di bilang suki i kamar splako mungkin belum 
+banyak adanya aparing cuman dulu cating duli itu ada kaye alama dotkom fejaman 
+dulu bhangat nya tuma sebakai platfom yang untuk cat yang cukup terkenal punya 
+teman teman ba 
+ruk yang mungkin dari entah anta berantah lokasinya tapi cukup emenariknya adaam 
+ada emi as juga cala satu yang cukup dulu sering sara epakek hlya nai ini yang 
+kalau dilajar anti ivolusinya akan juga sudah mulai berakam jasemakin rejia 
+kemampun disubat iknulgi dari web itiap dai yang dulum ksederhana ka eftika 
+kita moa tranvorealja pakai eftipi kita musti cara cara manwa adak repwot naklaus 
+karanga sudah gampang transorfel mungkin gak pelupak eftipi yang kita tinggal 
+pashar bisangapa melalui okya guku draf dipakek sudah bisa langsung 
+dan itu muda sumahi terintegrasi na dieranya inikan mulai dari wsatu nol yang 
+akurang tidak intraktif satu arah saja awalnyakannya jadi satu arah saja yang 
+dimana orang gak bisa komenikasi dua arah jadi kalau saase bagai penjual 
+dulu ngapain sekedar ememposting barang terselesai hanya menampa informasi saja 
+tdavisa terganh saksim sakan tejukkan yang genderasi awal awal jadri kemunculan 
+dari lat intologi dari guapya yang kemudian sudah mulai masuk intraksi dua ar 
+rah itu yang kemudian masuk di wetupoino kitu ya yang eini sudah mulai kita 
+bisa bertom kas dua arah seperti asosia l media yadulu itu awawal apa yang menculih 
+ada vvrentere 
+yah jamnjaman duluk asekarang udak ilangsih ada vrenster duul itu adaapalagia 
+ecoku banyak sidulu sia tapi yang dulu sa ingat saya cu memakai vrenstor dulu 
+ituya sebagai sangat satu patomg untuk pomenikasi dua arah melaitit ler dua 
+latupoin owagita terus kemuda nakhirnya juga 
+semakin bergembang kemampuan dari web itu yang kemujian emulai masuk weptri 
+poin o dengan berbagai macam kemampuan yang lebih ekompleksi dia mulai dari 
+ada elaustriming aktivitistri anak alpti dan setronya 
+sampai ya sekarang ini sudah mulai yang lebih intelejen mulai masukani bpat 
+vorpoin o ya naini nanti tantunyakan dengan perkembang teknologi yang ada ini 
+kenmasih akan mengubah bagaimana kemudian cara orang untuk berjualn secara ponmaen 
+kituya lesei kaku ketadi sekampaikan bawah ket 
+iajaman dulu di awal awal munculnya internet orang berjualan simpliapa yang 
+mereka menammenammenampilkan informasi barang jua landi dhidinternet jadi kela 
+pasaya sebagai penjual mi sangak punya sebuah tuku kalau ikin kemudian nanti 
+onlen ja sa 
+a kamundang mikin wep mikin bab sayat ampilkan kemudian nanti semua buraksa 
+juang troselesai kalau orang kemujian pengin membeli ya kontak saya cara tovlen 
+ya ketoko saya datang bisakan atau mungkin vihatelevon atau va email padiza 
+ertolong nangkiapacan butu barang seperti ini adanggak kalu ada kamusyhakhirimkan 
+estorusnya ujukkan cara cara lama tapi kalau kita lihat sekarang cara orang 
+berjualankan sangat beragam ada berbercemacempat fom sosial kamar senantia seperti 
+kaktokopi dia ya kita 
+bica sosial kamar yan bisa bisa nanti itu bisa diartikan dua dua klompok pertama 
+adalah jualan melalui sebuah sosial mejia seperti saya vacebook desa gram itu 
+ada sosial kamars atau nanti pelompa yang kedua adalah bicara mengalisebuah 
+platfom yang memilki 
+vituro sosial seperti apa tokokedia tidukkan ada ada bavitun untuk komentar 
+ada forumnya ada hrivyumnya naiku adal apak itu juga merupakan bagintas be pafhom 
+sosia dan nanti tinggal nanti ita bita sebuah sosial kamar sepat fonkan tinggal 
+kitak pakai divinisi yang mana kitua maam berivrbicara 
+melalui epenamanya pembelian melalui sebuah meja sosial ep fom seperti fasebuk 
+atal nsagram yang tomu nantiya kita bicara mengenai sebuah plakfom jual beli 
+tapi yang kemudan ada embelk atovitum sosial sosialnya sepertu koperi 
+dia ya yang dia punya beberapa vitru untuk sosial kamarsnyang seperti porum 
+kemudian ribhyu cenku mreting dak ita jaga gen dari sebuah sosial kamar sekonsrang 
+nantinya ya nai itu nanti ang membuat akhirta dia bawa cara orang kemudian anti 
+berjuan cara olanhpun akan beragang nator 
+asok nanti kta lihat di belakang juga dengan muncinya berbagai macam teknologi 
+emerjing yang seperti mungkin virtuarealiti juga akhirnya orang jadi berubah 
+cara mereka juga nanti untuk menjual sebuah prodak ya 
+nauntu tibetipa nanci ikamer seperti yang juka sudah diketahui inikan cukup 
+banyak yang tida kitamu masuk dalam kota gouri nanti yang namanya situsi ak 
+kan msu klassam pertukasemer ya seperti ibe atau kalau kita yang apanamanya 
+otik 
+kapa ya tokopai dia ya ituk adalah keatau etok kopi itu issitusia atau lebitusih 
+hsutus ikamarsah terus ada kemudianebitusi eikamars ini adalah bersistukastemar 
+kit a jadi kalau 
+situsi itu kealikita apa ya yang tetotedahlan situsia itu opin deokar kayadi 
+in stagram melitukan banyak yah yang jualan eceran aada yah iah ya tapi kalak 
+yang situsia adalah ko 
+ncapnya adalah dari orang keorang yang bukan darsembuah organisasia jadi teman 
+kaiknya sekalg sudah agak misap di skarena ketika tida bicar pekoki dia juga 
+ada orang ada kemudian bisnisya yang juka mereka berjualan jadi tapi kirakera 
+koncapnya adalah dari orang keorang cetiaut yang situsi ena kemudant ang dit 
+ushi adalah nangk yang dari bisistukastemur jaji kalau saya kemudian nanti emapa 
+namanya osaya okaya misakan seperti bhinnikah ita jalah mungkin bagian dari 
+bitushia caju 
+selamat pagi terima kasih sudah adir di kelas di komar s lanjut pagi ini kita 
+akan ba diskusi mengenai beberapa aplikasi komars yang teman teman sudah pili 
+kemudian dikai 
+tkan dengan gila gilar yang ada di dalam kebuku turban mahon ikin saya kemau 
+saya skrim dulu tahutannya temanteman bisa lihat juga ada di skilia 
+kaat ya saya ikin saar sekri nati kalau sudah tampil 
+saya punya dua skili soalnya sekili de pak sama sekali salai baentgi tyap sering 
+sering salah buka skiri idiharus hatihatbis melum buka sekiri 
+kjady ehari ini kita akan diskusi tentang apa yang temanteman sudah temungkin 
+ternungkan dalam dua hari terakhir tumbupit catu hari terakhir tentang bagaimana 
+aplikasi komars yang nanti seterusnya akan teman 
+nteman gluti sebakiri objek penelitian tapi meman kita perlu berfikir af aftupoksa 
+kita harus berfikir yang etidak hanya baik untuk tekagian ini tapi bisa juga 
+untuk berdikasi kecur 
+nal peber jadi harapannya setelah kuliah ini kelau dilanjutkan menjadi penulisan 
+publikasi ke jurnal peper karena temanteman judak sekarangkan target puplikasinya 
+adalah puplikasi ke jurnal peper begitu jatinanti memang katolok ukor di sk 
+ursinya bukan hanya tetopik topik yam termasuk dalam kali kotmar setapi juda 
+topik tokpik yang kata orang cukup saksia cukup saksi untuk kemudian dilelanjutkan 
+menjadi jurnal pepter nakala yang mem 
+ng belum mengambil publikasiilmnyah katau studi mandiri topik dari ebi komus 
+lanjut atau idak dang lanjut ini matif bisa anda usum dalam studi mandiri atau 
+puplikasil nya kolam asangan terbagi duayah publikasilnya dua eskaes 
+perustu di mari dua eskaek sepetul atau salah saya telyak tuui di sini mehomapa 
+adi masih swain ika pada ikat padi seya emikaibuk kamikaya ratis monen ika yang 
+ada dua eskak es studi mandiri dua dua skais lagi pub 
+ikasilna jadi te apa yang kita kaji di kelas i kompes lanjut ani nanti bisa 
+imucawa menjadi sudih mandiri atau puplikasilnya baik saya coba kelesar skrim 
+kelihatannya 
+ke ini eleselaitnya yang kemarin kita bahas kemarin mungkin nudah kita lihat 
+ini ikwamars aplikasinnya teman teman boleh pilih aplikasi ang sini kitaya kemudian 
+telah besalnya pilih sosial tom 
+mar setelah bu ceritakan apa di vinisinya sosial pokmars itu kemudian contohnya 
+sosial kemars yang ada maksudkan itu apa kemudian bagaimana tilar di pe paglik 
+polsi marketing enektor thaisan suporservis dan bisnis bakut sep itu 
+diperlukan atau bisa mendugung sosial kamar tersebut sepa lebih perlembahan 
+dan atu di bawahnya ada beberapa invas suktur dari invas suktur yang sivatnya 
+eelektronik pemensampai infrastruktur yang pertukaran pesan di 
+sini sayatamakan beliarsama lain karena ada waktu buku iniditulis mungkin tambu 
+ribu nun das di ributuju belas swea sama lain belum banyak untuk di komers mobian 
+di sini juga ada mtimi dia kontenennetwark tepemrograman untuk mobail juga sekarang 
+saat sangat pentingbahkan da 
+lam hadups i kopmars dan kalau untuk mobal bisa kita pekbahasa akot line dituyap 
+kemudian diasalah harus ada salurang nyang salurang yan yang pakeikabelada yang 
+takpakabeituya kemudian ada interveising karena kalau tanpa interfeising kita 
+tidak bisa mengkudungan satusistem den 
+n sistem lain kaya grave geryap itukan perubum dengan ovo bikita yap tetapi 
+kalau tokopi dia itu terhubungi dengan banyak peman dan kalau diharus terhubung 
+dengan banyak sistem invrasakter interves judak menjadi halnya pektik 
+jadi eini adalah bahan diskusi yang mati dilanjutkan menjadi topik teman teman 
+bisa dilihat panduannya apa aplikasi yang dipilih kenapa dipilih alasan ini 
+in sangat pentingnya kare 
+nanti pada saat ujian tengah smester kataupun nati pada saat penulisan drafjurnal 
+seringkali temanteman memilih tapi ketika disurnulis alesannya kurang kuat tu 
+dan alasan itu harus kaki data besalnya kelau bili sosial komars mungkin selasatu 
+sosial komarsnya 
+eapa inta gram fho bisnis kitu sekarangya kalau anda bilam bahwa datanya menikat 
+diharus ada datanya apakah dari diri sosial apakah dari ppees atau dari sumber 
+data larain yang mengatakan bawa memang menikah di datam terakhit t 
+di jangan memberikan klim tanpa data jangan memberikan pernyataan tanpa argunintasia 
+tuk palasan itu yang saya coba latih sejak diskusi pertama karan di kelas kelas 
+lanjutnya daya tertama di utaes dan penulisan drafcurnal itu alasannya itu kurang 
+kuat 
+ya seeritadi kalau sosial komars apa comtah dan aplikasinya kemudian ya diharapkan 
+bukan cuma satu buku turgan tapi juda ada rujukan yang lain kemudian di eksplorasi 
+masih masi vipilak dan fondasi bagaimana supaya dia makin berkembang 
+baik mungkin kitahu abjat aja di sinia sepaigang pam saya igin toteshar saya 
+selimapak sepuluh menit ini beruntung yang namanyaa mungkin sepanjang hidup 
+paling sering dipanda dulu yah pak dirakmat kali ana menyezahra itu paling belakah 
+silakan adi raman rimakasi iburekortya yang aakring istirakan temah pagi pewantel 
+wan semua papa ini semua mon maaf barean saya tidak bisa didan menopoktok adasijakat 
+nyaa bondaijia aya bubuuakumam papakan ta pasaas 
+tetkaye apa yang saa pilih tekaiia sama tekula ini tariak anda apak adala menebunan 
+menrasaalah ipu monaran masaman gau 
+tuga pestasi hari ini aya untuk mata kuti khoemat selanyut a saya menilih kerengong 
+wak dari dari tigan tem saya adalah ileningku aplikasima nak peremboka apa lamanya 
+saya tidak menedisdesikan interalu banyak mungkin ekbahasa banyak kurangan i 
+bumungepasukkan kanda tapi padagemudahan dari apa yang saya di memati dinisaa 
+banyak lima bayakumagalasan saya memiliki lending adalah kenas yapi disa berker 
+didinsijikmebikan saya ingin meketaji letuk di dalamku secanga onang akan di 
+ni sehakai kemualn teman pat setap pengguna tikasi ilan ding yang tesedia apakah 
+sudah maksimatu mesih peluf pengembangan lagi li masakaata telakasansaya ptaman 
+kesalah sayang kedua danpak dari akin adanya pekan deni piru skopi kemerubah 
+semua laka dan satu dibingnya untuk makukan tranformasi teburba 
+nya saat besar untuku maksi malkan teknologi ikususa plitasi langit untuk dapat 
+dipenakan dari manakarkat pertaanannya aparki ta sudah lebih siap pcaramu ito 
+enautur senritnya dengan semaki ang bertambahnya beberapa an minuwa di etar 
+dengan semukin pertemai berwapatkan mino di dan devinis syatus ditemukan dari 
+uankuku waktu besar kemungkinan dimasin akan datang implomentasiglan dengan 
+tatas gurbah dan berepulas indikit pepembangan jaman seiring dengan tektal di 
+dasidipe masnya sepatursebag ibu wormaap ini waktnya berapa meni tehu slimaan 
+menit 
+di dtinya lih me mitlagi mesi na ilanai dari dekini siang saya kecaria leleningitu 
+adara sepi silah dapat kidatemuhkan dalam tima komputer apa yingkan mai pristra 
+in ditur di daibo bergaannya di yang dati ekonikdangdanding yang dati pembelajalan 
+jadilak mi 
+dapat kikinumakan sebagai sesuatu setem pembelajan menggunakan perakat tertonik 
+sebagim negia na daikni itialamabu ti ta padaibaweapa somber irinra ini moluk 
+nassuh di jenis pelajar mengaja mungket kipesampaikannya baanajaran dengan menggunatan 
+negai tenet sintlanet atau meda jedengkop nelainya dari 
+n dari sumber dari inghadli dula tahun tahun buar ibu sakku dari dari liva yang 
+estiro tom bilening adal stenpindinkan yang burankan aplikasi etonik yang mendugu 
+belajar bengajat di nai 
+ntjadengka penemaupun komputer secanda lon ileneng adalah peraseflei secara 
+efektip yang diasi andang yang sara menggera inan pinapaing matiri sadiika yang 
+tidiri dadi hidu mendanainan dan sajak nurut phagamulahi iibu satu ilan yang 
+juba merupakan isilahan mengacsuk pada kebelajaannya tindal mengantik laujunbu 
+an separaa 
+pemajaan dam pembanyak septip telepon aku ji pidultap telepop nasi tas mesih 
+saplit menerusok meratawi dua dibulerja kadan menurus tosembag dua ribu satu 
+ilening merapakah satu penggunaan takbagintinat denlan pnyang perainhibijan 
+dan dankan was yang berlanusnya tidak berigadaribu itua di lendai belpokan jeri 
+inga naikan peafuan u pebarui menimpa mengiggishibusi damembayi matiri ajaan 
+tenthasi buang iriman sampai kepengunan akhir bawai komputer dengan bunankan 
+tekagitan penyang setandar pempukuskan pada pandangan yang pa yang luwas utak 
+pelajaran di baik kepaladutmetajan tesa di ena tutup iknya selama untuk teleng 
+terbarukan 
+pembelajara yang bisusun dengan tujuan menggunakan sepekonek aku komputer sehingga 
+mapu mendugung vasi belajaran menut pikal difebuk pia belas 
+ia masih pagi masi lemah semua taa siapa ingin selamu inggu wara keloryado aakakaari 
+kesaaaaapa ooyang akafkan sama bagi sumanya sayaananat pada smaran bagi angeli 
+la 
+tidak kedakamn ereseorang seorang kamu at lia adla alau ini nitaa ya ania namanya 
+di depan sudatuncuwal at air pak hawan patoni ya 
+otaum ini seringpi pagi penengaanmasiwatnya ya ada pada panaran ini inggakan 
+pergicaakamu ti datan dan perpentagahan dana sisemfpormasi ya kda seperti biasaya 
+ya sudan 
+disiakan mengelaiwenetlaraa skelesi eapa kali perlu di melakukan diaada sesi 
+kulihah tau ini anti diahil akan ada yak dilaindan sebaginya ken aah kantor 
+terpanjangkanka saya 
+mantukan uuk kemulanya sebelum saya memulai tadiya saya sengaja memutar satu 
+klivsi 
+ingkat tentang gimyang cukup opulen yang main patgi tadi gainya pasaya masih 
+sedikit banyak bilangnya yang main pabgi ngkakusah nggak semalua yang main mobai 
+lejat 
+portnait makin dikit yang sampai sugbuh tadi masih meingit ak jadi ohsemenerepa 
+inrah dan temantemndosen propensilain mintanya kesiang sipatnya yang terperais 
+enderi perusahaan 
+di dunia bisnis sep ada berwaki seperti itu ketetapi saya kasi intru itu dari 
+papgi kaena di papji dia juga menggunakan itu kutusnya untuk mendedeksi orang 
+yang mpermain gim pada jam jam yang tidak biasa dengan prilakuparilakuian tidak 
+biasa nanti itu logika yang sama 
+kan dipakai diindustri yang lain kenatia akan saya bahus emudian saya cepettaja 
+ohini aapa namanya pengumuman ayang dikoon pa inderaka saya kalau manggilnya 
+painbrabudi indarah atu b 
+udhi pinrs sokit yang suka menanya yuaa dan jewecx ada yang merasa ada sesuatu 
+yang salah disut suatnya genak 
+o kalau da begini begini ketawan dia menannya tindor ankalau dilihat diintagra 
+meopropensi saya semai minta pa hinra sesuapnya kekanan nanggus di ubahan itu 
+lisannya keluasal sap ke kanan 
+nideh ditindar kalau suwai pekiri itua artinya di tolak jadi kalau kunmumanya 
+begini sangat aja bilang dengan ngaksadatengiri taga lagit kecuali judul yang 
+maubuh ini tapi kitangga akan bahas ini ada sedikitkit tentang tindar tandi 
+sayakan 
+akan akan okeya tapi tindar itu campah yang bagus kala ada yang peinginapa namanya 
+belajar bikdata tindar itu contoh yang bagus secara teknologi masuk i setadi 
+di hanfon bisni s kul dari silakan nati kalau mau 
+ngofrek cantiknologi mecemekinya semenarna apli kebel di dunia oikomers okeah 
+ini selaia pembuka yang benaran semenar yajadi tadi baru epengantar seperti 
+disampaika nerapa inggras tadi nama saya iwan 
+ehsaya di sini smereka ingin terlalu banyak cerita soal eteoritik jadi sa akan 
+banyak cerita soal pengalaman pengalaman dilapangan studi kasus ada satu to 
+dua vidio nantai mungkinakan saya peter edan untuk 
+memberikan beberapa gambaran ke teman teman semua gangltentang apa yang perna 
+saya alami di dunia ini bikdata dan hindustri empat kosong penismiya topik yang 
+agak berat karena saya kalu masih waksug begilatam sadu hari kemudian 
+saya nasih woksob industri empat nol juga bisa dua hari elemen digital suplaijen 
+pak nol irimsasatu hari dan saya diminta mengkompleks semuanya mororles dalam 
+satu setengajam jadi moga moga dapat eseleatnya sudah saya kirim ke pa indara 
+tari pagi lumayan panjang sayang akan bara semuanya 
+tapi kalau teman teman nanti ingin haapa namanya dapat beberapa itsat bisadijeksitu 
+beberapakan saya skit paja okei onama saya iwan e saya april mendatang resmi 
+dua perunam tahun ada di dunia ingrustritenol bin formasim neja 
+tadi lumayan saya punya projek pertama pada saat saya masih pulihat di vasiokok 
+dan itu projekyan cukup relepan karena kalau mngomungin sool datang lisa akan 
+bahasa edua puluh enam tahun doerima tahun lebih ya 
+a industrinya mace macem terus kemudian sekarang saya pala keputulan olah satu 
+perusaa namannya temui d pdatemui di indonesia e dipertanyan diselaido ada beberapa 
+ananya daladi pakeinya di mana gi pemanfaatnya apa di tempat sa 
+ya yang pertama menu saya sampaikan tempat saya itu lebih mirip seperti aakseletotorkanbeni 
+jadi ha kami tidak pakin tidata untuk kami sendiri tertapi kami invadibeberapa 
+hal yang tergaa dengan bikdata jadi kamiidvesnya di ai bigdata blokcin ayoti 
+ini sa 
+ntor industrinya sebelum diatmidio sekarang saya juga kepetulan hasebagai semacam 
+ngalalkon sehutan ada satu projek kerta sama indonesi australia kusus untuk 
+peligal analitik dan juga untuk eme 
+impu nulis yang ada di sektor uangna donsia saya nanti sore ke joga tetemu temen 
+teman bilfa beli jugja dalam melangka koca itu nitungga da ubunganya ebik data 
+jari kelaasan diseledora dengenanya emang seharus lalu pakin bidatajaba yang 
+nanti surya saya kejugja mintingai tingga da bunganyang data 
+e sebelumnya sayaada di kurusahan namanya hal hisius sius grup saya pernah jadi 
+vii di sana dan kemudian melolah sabtu bawavain ca kebe tel aramnya sebelumnya 
+itu panjang ada macemacem ah waapa namanya pengalamannya yanmg nant 
+a akan dada hubunganya dengannyng akan saya ceritakan di sini jadi ini eindasia 
+lakis poshir saya terkait dengan data seepi isaya sampaikan semenam be rempat 
+o saya omenerapkan adapat dapat kerjaanlah dari senior itun itu enaknyanak vasilkau 
+melakih lagi bongong di kantin sehlekibumoh 
+yah kita keniada pekerjaan gi jadi epekerjaannya sangat simpal semelainya waktu 
+itu saya diminta membuat satu modul fronen untuh emengkorilit pesebuah saham 
+tertentuk dengan tikar tertentu dengan berita berita yan rilititny 
+an dengan galausalm itu jadi kalk katakanlah itu sehat mi hatelkom teelkaem 
+ini beritahotelpom yang ada didatapi sampang kertiria orang panganalisisi halhalm 
+itu dia kandapat beritanya belum ada deman beidata tapi saya udang galam in 
+datanya menggedibang 
+jadito tantangan teknikalnya lumayan ena dari situ kemudial tadi ada kampnia 
+namanya indonesia market kuat ini jeonvencer indonesi australia juga antara 
+kantor berita antara dengan kantor berita australia ebisi otuga saya waktu itu 
+pindah dari fronaan saya ke bowdken ngurusin 
+estopmarket data vit dari urusan saya tatafi daribu saya vaik saya harus epansing 
+dan sekolah macem atus unntuk muda ditambilkan tuju lumaya jadi ini urusannya 
+data datas ekperkeluangan kemudian sekitar tahu buar iku 
+iga empat saya lupa antar adua di gempat sanduar m lima saya bergampung sama 
+satu kamben ini namanya elevisim aesin atnya dia perusahaan yang berbahasis 
+di nuruwe asalah satu luklainnya adalah natu pata pertanana talam diputara jadi 
+sa 
+ap pegang sapu modul yang kerjanya mencaca dan pengolah data hasil tangkapan 
+sistem sofeles disluruh lautara jadi itu ada beradar dberapa sayan soreng di 
+pasang di riknya hanjungan minyak dikapal selimatje 
+jadi mereka punya tiga di poloponsentr di pos lou di sempiterseburdbadi jakarta 
+terus kemudiasaya sempat gampung sampusin komug ini perid beri doga pungsa mausiul 
+komu ic kememban tuubang indonesia 
+itu ubungannya lagilagi dengan data dadi bangi dunesa itu salah satu data projuser 
+paling besar dindonesia laal karena semua insta institusi keangan apa lagi pada 
+waktu itu harus membuatkan pelaporan di mereka mereka punyak problem ni daatas 
+dikmikan banyak mau diah pain ma 
+pi pakek untuk pengambilan kuputusan seperti apa da pada waktu saya masuk di 
+sana itu past ada kejadian yang sangat fenomenal bertuang indonesia jadiepagi 
+itu akurang lebih jam sembilan jam sepuluh pagi salah satu dributiku benurt 
+bilang 
+ias buah cara dibusa efekjakarta otu itu angka ingfelasi indonesia skat kurang 
+lebih satu jam kemudian 
+asa la melaiku maruh matulai webero kato selama pagi semua eutara pesarta perkuliahanpan 
+lisis memerikklad dan juga kelasje seperti yang saya sudah umamkan sebelumnya 
+jari muan maaf untuk h 
+ari ini saya tidak bisa hadir di kelas namun kalau kergiatan di kelas masih 
+akan terus a berlani akan berlangsung dengan di sini dibantu oleh kakakakakkakakakak 
+astdasia baik sebelum enanti kalian akan masuk kashatilatihan bersama pe 
+kah kakakak as doas di sini asaya akan sampaikan terlebih dabilu aklansedikit 
+kelanjutan dari pelpembahasan kita dari minggu tedari hari semin kemarin tepi 
+tu ya jadi nanti latihannya juga akan terkair dengan apa yang saya bahas am 
+di sesi ini tapi itu jadi yang semu saja saya akan ar shyearstrin ape gi dahuruf 
+umah 
+makek baik jadi minggu ini kita sudah masuk ke pembahasan mengenai pe persamaan 
+meminiat di sinia danedari beberapa metoda yang sudah kita pelajari a kita sudak 
+sampai ke metro donyotonny kemari 
+i jadi akekalau kita cobariko di sini untuk meto jenyuton ini sendiri kita kebisakan 
+diketahui suatu pertamaan nondiniear em evex sepetto ya ini kurkanya naak kita 
+akan berangkat dari suatu 
+elcebakan awal exsnol di sini tebakan awalnya di sini danawini adalah tahap 
+keenol atau langkah keenol makalangkah kesatunya itu kita akan ambil dari kita 
+el kita buat agra sebuah gari sehinggungnya yangpada sum 
+pada kurpa eek yang eldititikesnol di sini tita buat suatu gari inggung seperti 
+ini dan nanti akita ambil yang amemotong sumbuk ack itu ditu nanti akan menjadi 
+pelangkah selanjutnya tua akan menjadi eksatu dalam hal inia 
+na kemarin sudah dijelaskan juga edengan pengetahuan tersebut di sini kita punya 
+sujut yang mengapit ada terta kemudian daritan yang akhirnya intinya untuk metojun 
+nyutuhan ini sendiri itu bisa di rumuskan seperti ini bentuk iterasinya ya itu 
+extanplesatu atau ekspa 
+da langkah ke enple satu itu bisa diperoleh dengan xtene di kurangi dengan exxtene 
+di bagi evaksen xne pati itu naa di sini juga sudah ada contohnya ya jadi nisalnya 
+a kita ingin menyelesaikan a 
+persamaan ini dita kita inin mencari taxks dintang yang membuat persaman ini 
+berlaku ya yang membuat dia sama dengan nol maka di sini ini adalah eseksnya 
+lalu kita cari turunan pertamanya seucara teksak di sinia turenan pertama dari 
+teevteksini 
+baru kemudian nanti kita buat formulanya di mana xenple satu sama dengan extene 
+di kurangi paex dibagi dengan fveaksen exter itu tokek na selanjutnya di sini 
+kita kemarin juga sudah membaasia apasi kiraki 
+ira kelapotansiel o prablem yang bisa muncul kal untuk memimpelementasikan meto 
+donyetoan ini ito yang paling jelas terlihat enpunya di sini adalah karena kita 
+perlu untuk mencari atau menyediakan turunan pertama dari fungsi ini secara 
+eksak dimana tugas ini bisa jadi 
+bukan merupakan tugas yang abisa dengan mudah dilakukan bahkan oleh manusia 
+kalipun sehingga kalau kita ingin mengempembantasikan suatu metrodo yang abisa 
+berlaku jeneral untuk setiap untuk sembarang persamaan lam diniar di sini maka 
+ini tentunya kurang praktikal jadinya begitu ia jadi persoalannya memang di 
+sini adalah karena kita perlu menyediakan atau mengghitung aetaksenik tetutu 
+na di sini a ada selait selanjutnya juga dijelaskan ja 
+di ada dua perablom tama a dia memang praktikal dancepat akmarin kayanya sudah 
+simpa tiga saya dimukan ya saat kita bicara tentang stixpoin dimana kawa salsatu 
+geiksnya itu sudah ambil ke formula dari inyutel met sekalian bita tahu bahwa 
+dia ora cepat di sini a 
+konpergennya nalam diani praktikal namun talau pertama kita harus menyediakan 
+peraturnan pertama dari ae tinita dia dan belum lagi suatu ishu saat di salnya 
+evaksen dari suatu exene itu sama dengan nol di atas kita tahu bahwa evaksen 
+ini ber 
+rtingi efaksian bais ibu bertindas ebagai penyebut jadi dia tidak boleh sama 
+dingan nol gita jadi ini ada dua kemukinan permasalahan digisini dari a meter 
+dimutah ini seging gadis ini akan diusulkan peseperti apa bencokran madi atau 
+perbaikannya di sini untuk kedua prmasa 
+ahan tersebut jadi untuk persualan tentang dari satif atau turunan pertama dari 
+ef kita bisa atasi dengan mencari aproksimasi dari turunan pertama tersebut 
+jadi kita mecoba gunakan ta tidak alformula eksrakde 
+ri e turunan pertama esek namun kita cari dengan aproksimasinya itu ya kitakan 
+bahasa telebih dahulu ametrodi yang pertama ini jadi dimetada yang pertama kalian 
+akan perlu untuk menentukan suatu nilaiha di sinian jadi saya misakan punya 
+suatu 
+lkumsi ekseperti ini lalu sebutlah misanya saya punya teltebakan awal exslol 
+nadi sini idenya saya akan timi suatu nielainhal nilain hal ini nanti akan sangat 
+kecil yang atau tidi ka untuk ilustrasi saya coba berbesar jadi di sini saya 
+punyaha di sini juga adaha 
+sehingga saya punya dua dciknyi di sini ada haex nolminha dan ada tesnol pelasha 
+putian atahu ya oke ini kalau kita bisara kebakan awal tapi yang kalau mau siara 
+umumia ini eksen di teriap al 
+expada tahafken di temisa jadi kita punya ekteninhal dan ekten presehat oke 
+peranakalian tuntukg ingat bahwa ecurunan pertama e ax tapada exen dia dalam 
+hal ini pada ektaniadorunan pertama efek kepada exsen itu sebenar n 
+a adalah gradian gari singgung eaxk dititikexene epeti itu na karena kita ingin 
+cari gradian bari singgung jadi hari ini fungsinya adalah untuk membancu pendekatannyaya 
+jadi di sini kita mau cari gradien garis yang memotong 
+hxpada exenlin ha dan extenpleha dimana kita tau beradia nyaita adalah dilepagi 
+di bagi delta exdertayinnya adalah exten belesha dan di kurangi expen mintha 
+diini dan dibagi dengan data exk 
+itu adalah duakak oyak oh karena sedang pan ajan di sini jadi saya potong telebi 
+dahulua arkamannya 
+baik kita akan lanjuttan lagi jadi itu tadi idilnya ya jadi dengan memili suatu 
+ha disini kita mau adekat ini ti gari singgung epur pak efek semada 
+xene dengan cara pakita buat duat itik dikutukan ada eksenplesha estendenha 
+bayangkan kalau hanya ingi kecil ditya nya diaada di sini maka agradian garis 
+potong yang megoras garis potong pada titik estendenhadan extenplesahara ini 
+akan mendekati nilai 
+dari garis inggung pada didekesa itu jadi datayinya adalah ini dan deltaiksnyang 
+kita punya dua hak yap jadi itu yang dituliskan di sini efaksen esen itu bisa 
+dituliskan sebagai efefsenpleshak minevesndinhak per dua hak untuk 
+suatu nilain hali yang kecil dan posiftif di sini ya jadi a bisa dilihat di 
+sini alau kita hanya perlu eestek saja ditya dan dimana inkutnya adalah evsen 
+pelashak ditinggak perlu laji kita sediakan eturenan pertama dari efek 
+kemudian aofsi yang kedua adalah kita menggunakan nyatudo sekan namanya jadi 
+metau desaikan ini kaadalah kalau bisa dilihat di sini kita tidak cukup hanya 
+menggunakan satu tebakan awal jadi ceritanya ka di sini kita perlu memiliki 
+dua te 
+balkan awal gitunya untuk itrasi kita jadi pedengan fungsiang sama bisan seperti 
+ini na biasayakan kita hanya mengenebak untuk ecks aenol saja begitu ya tetapi 
+a di sini tidak cukup jadi kita perlu untuk menyediakan dua tebakan awal dari 
+sebutlah bisanya 
+ada eksatu bitu ya na di sini a sama seperti an tadi idenya adalah eng kita 
+akan ka mendekati nilai evaksen ekten ini adalah dengan a jadi kalau kita mau 
+cari ekaksen eks dua ditu ya maka 
+kita akan menggunakan nilai ecton dan eksatu sepati itu jadi eseketas dan exsn 
+i 
+salam jumpa kali ini kita ketemu lagi dimata pelajaran pengantar organisasi 
+komputer na topik yang akan kita bahas pada kecempatan ini adalah tentang performan 
+satau kinerja yang mencaku materima tiri berikut ini 
+itu apa itu performan kenapa kita perlu 
+asa la melaiku maruh matulai webero kato selama pagi semua eutara pesarta perkuliahanpan 
+lisis memerikklad dan juga kelasje seperti yang saya sudah umamkan sebelumnya 
+jari muan maaf untuk h 
+ari ini saya tidak bisa hadir di kelas namun kalau kergiatan di kelas masih 
+akan terus a berlani akan berlangsung dengan di sini dibantu oleh kakakakakkakakakak 
+astdasia baik sebelum enanti kalian akan masuk kashatilatihan bersama pe 
+kah kakakak as doas di sini asaya akan sampaikan terlebih dabilu aklansedikit 
+kelanjutan dari pelpembahasan kita dari minggu tedari hari semin kemarin tepi 
+tu ya jadi nanti latihannya juga akan terkair dengan apa yang saya bahas am 
+di sesi ini tapi itu jadi yang semu saja saya akan ar shyearstrin ape gi dahuruf 
+umah 
+makek baik jadi minggu ini kita sudah masuk ke pembahasan mengenai pe persamaan 
+meminiat di sinia danedari beberapa metoda yang sudah kita pelajari a kita sudak 
+sampai ke metro donyotonny kemari 
+i jadi akekalau kita cobariko di sini untuk meto jenyuton ini sendiri kita kebisakan 
+diketahui suatu pertamaan nondiniear em evex sepetto ya ini kurkanya naak kita 
+akan berangkat dari suatu 
+elcebakan awal exsnol di sini tebakan awalnya di sini danawini adalah tahap 
+keenol atau langkah keenol makalangkah kesatunya itu kita akan ambil dari kita 
+el kita buat agra sebuah gari sehinggungnya yangpada sum 
+pada kurpa eek yang eldititikesnol di sini tita buat suatu gari inggung seperti 
+ini dan nanti akita ambil yang amemotong sumbuk ack itu ditu nanti akan menjadi 
+pelangkah selanjutnya tua akan menjadi eksatu dalam hal inia 
+na kemarin sudah dijelaskan juga edengan pengetahuan tersebut di sini kita punya 
+sujut yang mengapit ada terta kemudian daritan yang akhirnya intinya untuk metojun 
+nyutuhan ini sendiri itu bisa di rumuskan seperti ini bentuk iterasinya ya itu 
+extanplesatu atau ekspa 
+da langkah ke enple satu itu bisa diperoleh dengan xtene di kurangi dengan exxtene 
+di bagi evaksen xne pati itu naa di sini juga sudah ada contohnya ya jadi nisalnya 
+a kita ingin menyelesaikan a 
+persamaan ini dita kita inin mencari taxks dintang yang membuat persaman ini 
+berlaku ya yang membuat dia sama dengan nol maka di sini ini adalah eseksnya 
+lalu kita cari turunan pertamanya seucara teksak di sinia turenan pertama dari 
+teevteksini 
+baru kemudian nanti kita buat formulanya di mana xenple satu sama dengan extene 
+di kurangi paex dibagi dengan fveaksen exter itu tokek na selanjutnya di sini 
+kita kemarin juga sudah membaasia apasi kiraki 
+ira kelapotansiel o prablem yang bisa muncul kal untuk memimpelementasikan meto 
+donyetoan ini ito yang paling jelas terlihat enpunya di sini adalah karena kita 
+perlu untuk mencari atau menyediakan turunan pertama dari fungsi ini secara 
+eksak dimana tugas ini bisa jadi 
+bukan merupakan tugas yang abisa dengan mudah dilakukan bahkan oleh manusia 
+kalipun sehingga kalau kita ingin mengempembantasikan suatu metrodo yang abisa 
+berlaku jeneral untuk setiap untuk sembarang persamaan lam diniar di sini maka 
+ini tentunya kurang praktikal jadinya begitu ia jadi persoalannya memang di 
+sini adalah karena kita perlu menyediakan atau mengghitung aetaksenik tetutu 
+na di sini a ada selait selanjutnya juga dijelaskan ja 
+di ada dua perablom tama a dia memang praktikal dancepat akmarin kayanya sudah 
+simpa tiga saya dimukan ya saat kita bicara tentang stixpoin dimana kawa salsatu 
+geiksnya itu sudah ambil ke formula dari inyutel met sekalian bita tahu bahwa 
+dia ora cepat di sini a 
+konpergennya nalam diani praktikal namun talau pertama kita harus menyediakan 
+peraturnan pertama dari ae tinita dia dan belum lagi suatu ishu saat di salnya 
+evaksen dari suatu exene itu sama dengan nol di atas kita tahu bahwa evaksen 
+ini ber 
+rtingi efaksian bais ibu bertindas ebagai penyebut jadi dia tidak boleh sama 
+dingan nol gita jadi ini ada dua kemukinan permasalahan digisini dari a meter 
+dimutah ini seging gadis ini akan diusulkan peseperti apa bencokran madi atau 
+perbaikannya di sini untuk kedua prmasa 
+ahan tersebut jadi untuk persualan tentang dari satif atau turunan pertama dari 
+ef kita bisa atasi dengan mencari aproksimasi dari turunan pertama tersebut 
+jadi kita mecoba gunakan ta tidak alformula eksrakde 
+ri e turunan pertama esek namun kita cari dengan aproksimasinya itu ya kitakan 
+bahasa telebih dahulu ametrodi yang pertama ini jadi dimetada yang pertama kalian 
+akan perlu untuk menentukan suatu nilaiha di sinian jadi saya misakan punya 
+suatu 
+lkumsi ekseperti ini lalu sebutlah misanya saya punya teltebakan awal exslol 
+nadi sini idenya saya akan timi suatu nielainhal nilain hal ini nanti akan sangat 
+kecil yang atau tidi ka untuk ilustrasi saya coba berbesar jadi di sini saya 
+punyaha di sini juga adaha 
+sehingga saya punya dua dciknyi di sini ada haex nolminha dan ada tesnol pelasha 
+putian atahu ya oke ini kalau kita bisara kebakan awal tapi yang kalau mau siara 
+umumia ini eksen di teriap al 
+expada tahafken di temisa jadi kita punya ekteninhal dan ekten presehat oke 
+peranakalian tuntukg ingat bahwa ecurunan pertama e ax tapada exen dia dalam 
+hal ini pada ektaniadorunan pertama efek kepada exsen itu sebenar n 
+a adalah gradian gari singgung eaxk dititikexene epeti itu na karena kita ingin 
+cari gradian bari singgung jadi hari ini fungsinya adalah untuk membancu pendekatannyaya 
+jadi di sini kita mau cari gradien garis yang memotong 
+hxpada exenlin ha dan extenpleha dimana kita tau beradia nyaita adalah dilepagi 
+di bagi delta exdertayinnya adalah exten belesha dan di kurangi expen mintha 
+diini dan dibagi dengan data exk 
+itu adalah duakak oyak oh karena sedang pan ajan di sini jadi saya potong telebi 
+dahulua arkamannya 
+baik kita akan lanjuttan lagi jadi itu tadi idilnya ya jadi dengan memili suatu 
+ha disini kita mau adekat ini ti gari singgung epur pak efek semada 
+xene dengan cara pakita buat duat itik dikutukan ada eksenplesha estendenha 
+bayangkan kalau hanya ingi kecil ditya nya diaada di sini maka agradian garis 
+potong yang megoras garis potong pada titik estendenhadan extenplesahara ini 
+akan mendekati nilai 
+dari garis inggung pada didekesa itu jadi datayinya adalah ini dan deltaiksnyang 
+kita punya dua hak yap jadi itu yang dituliskan di sini efaksen esen itu bisa 
+dituliskan sebagai efefsenpleshak minevesndinhak per dua hak untuk 
+suatu nilain hali yang kecil dan posiftif di sini ya jadi a bisa dilihat di 
+sini alau kita hanya perlu eestek saja ditya dan dimana inkutnya adalah evsen 
+pelashak ditinggak perlu laji kita sediakan eturenan pertama dari efek 
+kemudian aofsi yang kedua adalah kita menggunakan nyatudo sekan namanya jadi 
+metau desaikan ini kaadalah kalau bisa dilihat di sini kita tidak cukup hanya 
+menggunakan satu tebakan awal jadi ceritanya ka di sini kita perlu memiliki 
+dua te 
+balkan awal gitunya untuk itrasi kita jadi pedengan fungsiang sama bisan seperti 
+ini na biasayakan kita hanya mengenebak untuk ecks aenol saja begitu ya tetapi 
+a di sini tidak cukup jadi kita perlu untuk menyediakan dua tebakan awal dari 
+sebutlah bisanya 
+ada eksatu bitu ya na di sini a sama seperti an tadi idenya adalah eng kita 
+akan ka mendekati nilai evaksen ekten ini adalah dengan a jadi kalau kita mau 
+cari ekaksen eks dua ditu ya maka 
+kita akan menggunakan nilai ecton dan eksatu sepati itu jadi eseketas dan exsn 
+i 
+bagaiya jadi kita baha stektasifikasi di kulas ebelunnya sasudah balah cokjonto 
+teksprasifikasi di sini adalah sentit menalisis lespendideksien meng wuii dendifikasen 
+dan lain lainnya jari secara umum 
+emini ah diri kalau pakai masin merending itu berati imputnya ada sebuah dokumen 
+yang mmorituntukan kelasnya kemurian ada himpunan dari kelaskelasnya sanya ada 
+kelasja satu ujedua ampai cji gitu ya menambisa anya kelawa sentimen analisis 
+buhasaanya kelasnya 
+a tiga itea positi kenegati metral ke kemuda yang ada tahik kita punya terening 
+sayat ya untuk membentu moder wagetta bake ternisiet nya udak ada ininya kuncinya 
+yang kalau kalimat degini kelasnya ini dan seterusnya 
+naknai klasifaire mencukngi seperti ini nan tidak membangun kalau ketemu dok 
+medokmendiri makan nanti kelasnya apak nahari ini kita kopus membahasatu saja 
+ya dari teknik asihfairan ada itu nanaik bayas saya yakin kanas sudah belajar 
+di keulalahin rimpin an konteksnya elebiki an nel 
+thi itya bukih kita judul hari ini bahas nangif bahyas kelasivayar ya keingatis 
+ini ada katakatana iya di sini kyakira na iktu geodi sepenai karena asumsinya 
+itu terus derana lantia bahwa uru 
+uta ngak penting kekemudia ada asimsi indipenden bas menarik deninaata tunggak 
+indipenden begitu ya kemuculan kata itu tepi di sini karena ada asumsiasmsina 
+dikatakan labor bawa pendekatan ni naif dirya beke jadi naik bayas ini dia itu 
+eorepesentas 
+inya sermana semua kata itu saya kita penyedokumen kita punyakatakata dalamnya 
+itu nggakpan tinggurutannya ditaya bisanya kela saya pergi itu sama anya pergi 
+saya ponya nggak pentinya peti ada angk esaya ada nggak pergi idaya jadi jadike 
+kenmgucuran sengai sebelahn itu darkesentasnya kisebu dengan 
+dacofk worgeitaya tdik kaya kita punya sikuen seperti inian kitapenya sikuen 
+seperti ini yang makenanya ada it ya nangkalau pakai naik bayak satunjadi kayaginia 
+anja tdi katakatanya semua dimasukkan ketas nyang perlu rutannya it ya isti 
+terjadikstasinya a seperti barang yang masukkan kertas makannya mebaikwak buat 
+stripesentraisian nakemudian kita abakus pada kemunculannya berapa kali kitadadi 
+perkunsinya bepak myait mencurenam kali dan strusnya danstrusnya jadi urutan 
+tidak 
+pentingdiri sikwen setenggah penting na kelau kemarin kita membangun lenggu 
+cemua da ltu eurutan pentingnya kalah yang in ingga tyajar kiki lanti kitarampunya 
+edatag seperti ini kmunculan setiap kata yah di trening datasannya ya ini ini 
+mencubal pekalja stusna 
+itu dicata semua rim nanti kitakan menghitung peluang inia ini peluangapa yang 
+kitakan itung itu peluang sentar jadi itu ada di itu huntuk dokumen nya dn 
+tsetiga di toiter senya jadi yang pertama itu kita punya dokumen di dkmeni bisa 
+berupa tui misalnya ya bisa juga berupa satu satu ha 
+laman tersara konteksya sukesaya yang singkat bank satu kalimat bisa jadi panjang 
+rgantung masalah kita apalt kalau sentimanalesis sihabisanya satu twi mesalannya 
+kalau misalnya deteksi bahasa disuatu artikel bat satu artikalnyanya di dokumenya 
+dia ada dokumen 
+die dan adak clas cia nakita mau mamprediksi diketahui kita punya dokumenini 
+ide ini kakira berapa peluangnya dia itu termasuk kelas suatu kelas ciritaya 
+na ini menggunakan aba yas rualyah titu ini awalikan dingini ten 
+gunya peluang jd dibagi keluang t kiria konyangi dikuraikan jadi ini tentang 
+bayisrul sayakira sudah ini semuaya meingat lagi cedingka puluh lamalaman ditaksini 
+dini ni baik pakai ba isrul makannya namanya naik bayasnya pakai ranjut 
+nabagaimana cara kerjanya jadi cara kerjaanya adalah kita cobacoba semuainya 
+bekan kita mesangit punyetiga klas itu kita hitung tingga kali kitaya berapa 
+peluangnya kelas pertama kita in yang saya dicejia epeluangsanya menapa t eruangnya 
+sinpimennya p 
+shitif diketahu ini tuitnya yng berapat luangnya semannya anegati venetral dai 
+tigga tiganya ditungap s itu dicari yang paling tinggi ya caanya yang keluarnya 
+paling tinggi makan disitulah tita putuskan oaerti dia kelasnya yang paling 
+tinggi tadi ya idenya seperti itu sampai sitna dartanya 
+jadikita akan menghitungini sebanyak kelas yang ada ya saakal gelas kita tiga 
+ayang tiga kali roki sepelos puluh isebukal iri penggantung jumlah jumdah kelas 
+namah jadi ini yang bicaria keluang cikndnapemun inak ini seperti dijaskan tagi 
+bawah ini kita ganti 
+kan dengan baisrul ya yang bagi an sin ini yah ini pakai bayisrul eh ke naak 
+kemudian untuk selanjutnya untuk menyederhanakan yangparti bakin bawa inyi sama 
+teruskannya na itu dibuang ajah 
+agian ininya jadi akinnya tinggal ini jina yang ini uang menyinba tampai di 
+sini apakai ada pertanyaan kamuna anda kita lanjut yanyan kitadia jadi ini yang 
+mau kita cari keluang 
+divnci kali vc naik kemurian kita pukus ke ini nikal ini baji lasayah yang yang 
+melakumen ini bagaimana nan dokumen ini kanisinya kakakata gitu yah dari inilati 
+kita kersmatikan dalam untup katakata yang ada dik dokumen dsebur diri ada eksa 
+tu adek dua sampai exnnya ini dokumen ditakni sebagai fikir eksatu sampai ekspeahan 
+ya mundan yang ini disebut laik lihut yah yang bagian sini seberlaikikut pagian 
+sini sebut prayer ya etelanjit lagi nagiri 
+ini yang masalah yang bekercaria munkan ada dua bagiannyi ya ini dan yang ini 
+a sakananh kita bahasiang esatu ya na jadi ekita baha sebagian lain libut ya 
+miang bagi an laing libutnyania man kita bastu eniha ini bagia 
+n laik lihutnya bakai kemudian ini asumsi yang tadia kita bakdiaw tadi bahwa 
+ada aasumsi dackovtworde asumsen artinya itu posis itu engtak penti taya dadika 
+ika kita membuat modelnya itu kitangga perlu tahu siapa duluan siapagin tenganpun 
+pertikemut 
+nculanya perapa kali taya kedeka kita membangun modal kemudian juga di sini 
+ada asumsi juga kondisinal in pendens itya jadi misaln yang tarek satu esedua 
+esenini nanti kita angkap semuanya kenumculnya indi pendet diki kisakat kita 
+gunakan perkalian ya ini lamisankan 
+ya tia ditarprok pad kalau sama dengan ini penden kasa mendinga pakali drit 
+ya na jadi dengan asumsi indipenden ini dari eksatu sampai ssayan kita bisa 
+uraikan jadi ini nama ke na ini yang membuat 
+namanya jadi naiv karena ini naivasumsinya nanan di dunanya tenggak gak indi 
+pendan juga gitria k indian posisi itu jegangan ruuh hitup jadikana dua hal 
+ini makan namanya naik naif bais ges jau ini jadi yang ini diuraikan menjadi 
+seperti ini dikolomesaln 
+i ada kalimat isinya sepuluh sepuluh tokkan makan nati dikalikan jadi peluang 
+ksatu divenci is dua ngivencidan seterusnya ya ddidibditapan trending kita nyang 
+mencari ini kita akan mengitung pulang pulang i 
+ni seinggalanti pas tek seting tinggal dipakai sajaan ita yah bak lanjut ya 
+na dita tidak sampai kerumusnya di rumuhnya tadi na kita sudah membasinya kadia 
+bagin depan naan minum endah nain yang bajam perahiran yakan keluang ke 
+s iteya itu sedengan m apalal digabungkankan jadi giniah yang bajian ini itu 
+ke sini ya inikan tadi yang dikali kali bisa di ikuti ini tinka jadi begini 
+yang ini ke sini nangan itu eh lanjit ya 
+najadi ini festivinalnya di sini ini ada indeksnya pertanan ya kesinia jadi 
+ini kekelas yang menjadi hasil nan ti adalah amasimum dari argumen inikan mana 
+yang kelasnya yang paling tinggi nanti nilai ininyakan bagan cintur maksimum 
+peyasinya masih omeah na pesor yang ini yang masing mesanpai sini namrati nanti 
+itu menyadi hasil yang ini oke kemudian yan inkin tadi hasiltadi boas diri mesani 
+kita ditestinya da seratus tokannyang semuanyatu dikalikannya ulang ekshigivan 
+cj 
+ake mungkin adaya yang bawam bertanya sampai sejawi nia silakan boleh paka titur 
+ciap ya kelau ada yang munanya atau pakaapa raasiannya 
+oke kalau mnkek ada kita lanjut lagi kesekarang ka 

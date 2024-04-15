@@ -1,0 +1,8 @@
+1
+00:00:01,300 --> 00:00:14,200
+salam jumpa kali ini kita ketemu lagi di mata pelajaran pengantar Organisasi Komputer nah topik yang akan kita bahas Pada kesempatan ini adalah tentang performance atau kinerja
+
+2
+00:00:15,100 --> 00:00:20,700
+ Yang mencakup materi-materi berikut ini yaitu Apa itu performance? Kenapa kita
+
